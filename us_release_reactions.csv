@@ -1,0 +1,562 @@
+release,release_name,release_date,release_time_et,release_utc,index,move_5m_pct,move_30m_pct,move_60m_pct,range_30m_pct,first_5m_held_to_close,same_minute_as,page
+jolts,Job Openings and Labor Turnover (JOLTS),2023-08-01,10:00,2023-08-01T14:00:00Z,Nasdaq 100,0.1319,0.0073,0.2439,0.5372,1,,https://tradingcipher.com/jolts/2023-08-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2023-08-01,10:00,2023-08-01T14:00:00Z,S&P 500,0.0587,-0.1878,-0.0945,0.3731,,,
+nfp,Nonfarm Payrolls (NFP),2023-08-04,08:30,2023-08-04T12:30:00Z,Nasdaq 100,-0.0623,0.3137,0.2965,0.8718,1,,https://tradingcipher.com/nfp/2023-08-04/
+nfp,Nonfarm Payrolls (NFP),2023-08-04,08:30,2023-08-04T12:30:00Z,S&P 500,-0.0608,0.1872,0.2207,0.5734,,,
+cpi,Consumer Price Index (CPI),2023-08-10,08:30,2023-08-10T12:30:00Z,Nasdaq 100,0.0904,0.3208,0.1287,0.7395,0,,https://tradingcipher.com/cpi/2023-08-10/
+cpi,Consumer Price Index (CPI),2023-08-10,08:30,2023-08-10T12:30:00Z,S&P 500,0.0267,0.2281,0.0385,0.6728,,,
+ppi,Producer Price Index (PPI),2023-08-11,08:30,2023-08-11T12:30:00Z,Nasdaq 100,-0.3747,-0.5300,-0.5616,0.6625,1,,https://tradingcipher.com/ppi/2023-08-11/
+ppi,Producer Price Index (PPI),2023-08-11,08:30,2023-08-11T12:30:00Z,S&P 500,-0.2516,-0.3412,-0.3918,0.3976,,,
+retail_sales,Retail Sales,2023-08-15,08:30,2023-08-15T12:30:00Z,Nasdaq 100,-0.0874,-0.0706,0.1991,0.3391,1,,https://tradingcipher.com/retail-sales/2023-08-15/
+retail_sales,Retail Sales,2023-08-15,08:30,2023-08-15T12:30:00Z,S&P 500,-0.0397,-0.0894,0.1851,0.2633,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2023-08-29,10:00,2023-08-29T14:00:00Z,Nasdaq 100,0.4735,0.8837,0.9552,0.9523,1,,https://tradingcipher.com/jolts/2023-08-29/
+jolts,Job Openings and Labor Turnover (JOLTS),2023-08-29,10:00,2023-08-29T14:00:00Z,S&P 500,0.2653,0.4784,0.4453,0.5146,,,
+gdp,Gross Domestic Product (GDP),2023-08-30,08:30,2023-08-30T12:30:00Z,Nasdaq 100,0.1103,0.0153,-0.0436,0.2569,1,,https://tradingcipher.com/gdp/2023-08-30/
+gdp,Gross Domestic Product (GDP),2023-08-30,08:30,2023-08-30T12:30:00Z,S&P 500,0.0716,0.0333,0.0227,0.1780,,,
+core_pce,Core PCE (Personal Income and Outlays),2023-08-31,08:30,2023-08-31T12:30:00Z,Nasdaq 100,-0.0363,-0.1330,-0.2401,0.3145,0,,https://tradingcipher.com/core-pce/2023-08-31/
+core_pce,Core PCE (Personal Income and Outlays),2023-08-31,08:30,2023-08-31T12:30:00Z,S&P 500,0.0002,-0.0766,-0.2138,0.2091,,,
+nfp,Nonfarm Payrolls (NFP),2023-09-01,08:30,2023-09-01T12:30:00Z,Nasdaq 100,0.3569,0.3985,0.3637,0.5959,0,,https://tradingcipher.com/nfp/2023-09-01/
+nfp,Nonfarm Payrolls (NFP),2023-09-01,08:30,2023-09-01T12:30:00Z,S&P 500,0.2309,0.2095,0.2143,0.3836,,,
+cpi,Consumer Price Index (CPI),2023-09-13,08:30,2023-09-13T12:30:00Z,Nasdaq 100,-0.2140,0.0302,0.0865,0.7321,0,,https://tradingcipher.com/cpi/2023-09-13/
+cpi,Consumer Price Index (CPI),2023-09-13,08:30,2023-09-13T12:30:00Z,S&P 500,-0.1257,0.0556,0.0684,0.5281,,,
+ppi,Producer Price Index (PPI),2023-09-14,08:30,2023-09-14T12:30:00Z,Nasdaq 100,-0.1760,-0.0488,-0.0204,0.4000,0,retail_sales,https://tradingcipher.com/ppi/2023-09-14/
+ppi,Producer Price Index (PPI),2023-09-14,08:30,2023-09-14T12:30:00Z,S&P 500,-0.1034,0.0455,0.1177,0.2969,,retail_sales,
+retail_sales,Retail Sales,2023-09-14,08:30,2023-09-14T12:30:00Z,Nasdaq 100,-0.1760,-0.0488,-0.0204,0.4000,0,ppi,https://tradingcipher.com/retail-sales/2023-09-14/
+retail_sales,Retail Sales,2023-09-14,08:30,2023-09-14T12:30:00Z,S&P 500,-0.1034,0.0455,0.1177,0.2969,,ppi,
+fomc,Fed Rate Decision (FOMC),2023-09-20,14:00,2023-09-20T18:00:00Z,Nasdaq 100,-0.3585,-0.2104,-0.4071,0.5482,1,,https://tradingcipher.com/fomc/2023-09-20/
+fomc,Fed Rate Decision (FOMC),2023-09-20,14:00,2023-09-20T18:00:00Z,S&P 500,-0.2992,-0.2058,-0.3763,0.3509,,,
+gdp,Gross Domestic Product (GDP),2023-09-28,08:30,2023-09-28T12:30:00Z,Nasdaq 100,0.2808,-0.2744,-0.2669,0.6797,1,,https://tradingcipher.com/gdp/2023-09-28/
+gdp,Gross Domestic Product (GDP),2023-09-28,08:30,2023-09-28T12:30:00Z,S&P 500,0.2049,-0.2624,-0.2563,0.5654,,,
+core_pce,Core PCE (Personal Income and Outlays),2023-09-29,08:30,2023-09-29T12:30:00Z,Nasdaq 100,0.1051,0.2780,,0.3912,0,,https://tradingcipher.com/core-pce/2023-09-29/
+core_pce,Core PCE (Personal Income and Outlays),2023-09-29,08:30,2023-09-29T12:30:00Z,S&P 500,0.0463,0.1922,0.2269,0.2815,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2023-10-03,10:00,2023-10-03T14:00:00Z,Nasdaq 100,-0.6464,-1.1398,-1.3340,1.2545,1,,https://tradingcipher.com/jolts/2023-10-03/
+jolts,Job Openings and Labor Turnover (JOLTS),2023-10-03,10:00,2023-10-03T14:00:00Z,S&P 500,-0.4659,-0.8904,-1.0637,0.9419,,,
+nfp,Nonfarm Payrolls (NFP),2023-10-06,08:30,2023-10-06T12:30:00Z,Nasdaq 100,-1.3798,-1.3627,-1.0123,1.5793,0,,https://tradingcipher.com/nfp/2023-10-06/
+nfp,Nonfarm Payrolls (NFP),2023-10-06,08:30,2023-10-06T12:30:00Z,S&P 500,-1.0270,-0.9984,-0.6543,1.2211,,,
+ppi,Producer Price Index (PPI),2023-10-11,08:30,2023-10-11T12:30:00Z,Nasdaq 100,-0.1112,0.0470,-0.0278,0.3479,0,,https://tradingcipher.com/ppi/2023-10-11/
+ppi,Producer Price Index (PPI),2023-10-11,08:30,2023-10-11T12:30:00Z,S&P 500,-0.0709,0.0737,-0.0393,0.2855,,,
+cpi,Consumer Price Index (CPI),2023-10-12,08:30,2023-10-12T12:30:00Z,Nasdaq 100,-0.3214,-0.3180,-0.2991,0.5264,1,,https://tradingcipher.com/cpi/2023-10-12/
+cpi,Consumer Price Index (CPI),2023-10-12,08:30,2023-10-12T12:30:00Z,S&P 500,-0.2525,-0.3028,-0.3189,0.4589,,,
+retail_sales,Retail Sales,2023-10-17,08:30,2023-10-17T12:30:00Z,Nasdaq 100,-0.1791,-0.4278,-0.6052,0.4656,0,,https://tradingcipher.com/retail-sales/2023-10-17/
+retail_sales,Retail Sales,2023-10-17,08:30,2023-10-17T12:30:00Z,S&P 500,-0.1119,-0.2539,-0.4404,0.2727,,,
+gdp,Gross Domestic Product (GDP),2023-10-26,08:30,2023-10-26T12:30:00Z,Nasdaq 100,0.2699,0.3634,0.4749,0.6291,0,,https://tradingcipher.com/gdp/2023-10-26/
+gdp,Gross Domestic Product (GDP),2023-10-26,08:30,2023-10-26T12:30:00Z,S&P 500,0.2358,0.3790,0.3403,0.5607,,,
+core_pce,Core PCE (Personal Income and Outlays),2023-10-27,08:30,2023-10-27T12:30:00Z,Nasdaq 100,0.1513,0.1123,0.0566,0.4012,0,,https://tradingcipher.com/core-pce/2023-10-27/
+core_pce,Core PCE (Personal Income and Outlays),2023-10-27,08:30,2023-10-27T12:30:00Z,S&P 500,0.1106,0.0749,0.0583,0.3081,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2023-11-01,10:00,2023-11-01T14:00:00Z,Nasdaq 100,0.0960,0.5615,0.4982,0.7418,1,,https://tradingcipher.com/jolts/2023-11-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2023-11-01,10:00,2023-11-01T14:00:00Z,S&P 500,0.0699,0.3980,0.4211,0.5397,,,
+nfp,Nonfarm Payrolls (NFP),2023-11-03,08:30,2023-11-03T12:30:00Z,Nasdaq 100,0.6998,0.5804,0.6111,0.7760,1,,https://tradingcipher.com/nfp/2023-11-03/
+nfp,Nonfarm Payrolls (NFP),2023-11-03,08:30,2023-11-03T12:30:00Z,S&P 500,0.5471,0.5476,0.6255,0.6832,,,
+cpi,Consumer Price Index (CPI),2023-11-14,08:30,2023-11-14T13:30:00Z,Nasdaq 100,1.2424,1.4605,1.4175,1.8294,1,,https://tradingcipher.com/cpi/2023-11-14/
+cpi,Consumer Price Index (CPI),2023-11-14,08:30,2023-11-14T13:30:00Z,S&P 500,0.9997,1.2989,1.2742,1.3582,,,
+ppi,Producer Price Index (PPI),2023-11-15,08:30,2023-11-15T13:30:00Z,Nasdaq 100,-0.1277,-0.1978,-0.2493,0.6899,1,retail_sales,https://tradingcipher.com/ppi/2023-11-15/
+ppi,Producer Price Index (PPI),2023-11-15,08:30,2023-11-15T13:30:00Z,S&P 500,-0.0879,-0.1315,-0.1807,0.4519,,retail_sales,
+retail_sales,Retail Sales,2023-11-15,08:30,2023-11-15T13:30:00Z,Nasdaq 100,-0.1277,-0.1978,-0.2493,0.6899,1,ppi,https://tradingcipher.com/retail-sales/2023-11-15/
+retail_sales,Retail Sales,2023-11-15,08:30,2023-11-15T13:30:00Z,S&P 500,-0.0879,-0.1315,-0.1807,0.4519,,ppi,
+gdp,Gross Domestic Product (GDP),2023-11-29,08:30,2023-11-29T13:30:00Z,Nasdaq 100,-0.0416,-0.0844,-0.0707,0.2149,1,,https://tradingcipher.com/gdp/2023-11-29/
+gdp,Gross Domestic Product (GDP),2023-11-29,08:30,2023-11-29T13:30:00Z,S&P 500,-0.0218,-0.0487,-0.0380,0.1422,,,
+core_pce,Core PCE (Personal Income and Outlays),2023-11-30,08:30,2023-11-30T13:30:00Z,Nasdaq 100,-0.1031,-0.1954,-0.3077,0.3034,1,,https://tradingcipher.com/core-pce/2023-11-30/
+core_pce,Core PCE (Personal Income and Outlays),2023-11-30,08:30,2023-11-30T13:30:00Z,S&P 500,-0.0576,-0.1014,-0.1831,0.1923,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2023-12-05,10:00,2023-12-05T15:00:00Z,Nasdaq 100,0.4504,0.2350,0.6130,0.5490,1,,https://tradingcipher.com/jolts/2023-12-05/
+jolts,Job Openings and Labor Turnover (JOLTS),2023-12-05,10:00,2023-12-05T15:00:00Z,S&P 500,0.3024,0.2071,0.4248,0.3574,,,
+nfp,Nonfarm Payrolls (NFP),2023-12-08,08:30,2023-12-08T13:30:00Z,Nasdaq 100,-0.2911,-0.0612,-0.1260,0.6397,0,,https://tradingcipher.com/nfp/2023-12-08/
+nfp,Nonfarm Payrolls (NFP),2023-12-08,08:30,2023-12-08T13:30:00Z,S&P 500,-0.2183,0.0140,0.0007,0.5356,,,
+cpi,Consumer Price Index (CPI),2023-12-12,08:30,2023-12-12T13:30:00Z,Nasdaq 100,-0.2198,-0.4019,-0.4339,0.6299,0,,https://tradingcipher.com/cpi/2023-12-12/
+cpi,Consumer Price Index (CPI),2023-12-12,08:30,2023-12-12T13:30:00Z,S&P 500,-0.1381,-0.3342,-0.3523,0.5036,,,
+fomc,Fed Rate Decision (FOMC),2023-12-13,14:00,2023-12-13T19:00:00Z,Nasdaq 100,0.4642,0.6463,1.1011,0.7919,1,,https://tradingcipher.com/fomc/2023-12-13/
+fomc,Fed Rate Decision (FOMC),2023-12-13,14:00,2023-12-13T19:00:00Z,S&P 500,0.4994,0.6798,1.1828,0.7603,,,
+ppi,Producer Price Index (PPI),2023-12-13,08:30,2023-12-13T13:30:00Z,Nasdaq 100,0.0215,0.1357,0.0074,0.1543,1,,https://tradingcipher.com/ppi/2023-12-13/
+ppi,Producer Price Index (PPI),2023-12-13,08:30,2023-12-13T13:30:00Z,S&P 500,0.0084,0.1136,-0.0548,0.1303,,,
+retail_sales,Retail Sales,2023-12-14,08:30,2023-12-14T13:30:00Z,Nasdaq 100,-0.0837,0.1136,-0.0904,0.2828,1,,https://tradingcipher.com/retail-sales/2023-12-14/
+retail_sales,Retail Sales,2023-12-14,08:30,2023-12-14T13:30:00Z,S&P 500,-0.0343,0.2777,0.0934,0.3662,,,
+gdp,Gross Domestic Product (GDP),2023-12-21,08:30,2023-12-21T13:30:00Z,Nasdaq 100,0.2820,0.4103,0.3041,0.6499,1,,https://tradingcipher.com/gdp/2023-12-21/
+gdp,Gross Domestic Product (GDP),2023-12-21,08:30,2023-12-21T13:30:00Z,S&P 500,0.1959,0.2918,0.1965,0.5116,,,
+core_pce,Core PCE (Personal Income and Outlays),2023-12-22,08:30,2023-12-22T13:30:00Z,Nasdaq 100,-0.0515,0.2189,0.2129,0.4455,0,,https://tradingcipher.com/core-pce/2023-12-22/
+core_pce,Core PCE (Personal Income and Outlays),2023-12-22,08:30,2023-12-22T13:30:00Z,S&P 500,-0.0543,0.2002,0.1798,0.3752,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-01-03,10:00,2024-01-03T15:00:00Z,Nasdaq 100,0.1487,-0.2054,-0.1126,0.5821,0,,https://tradingcipher.com/jolts/2024-01-03/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-01-03,10:00,2024-01-03T15:00:00Z,S&P 500,0.1537,-0.1075,-0.1257,0.3837,,,
+nfp,Nonfarm Payrolls (NFP),2024-01-05,08:30,2024-01-05T13:30:00Z,Nasdaq 100,-0.2254,-0.0528,0.2484,0.5570,0,,https://tradingcipher.com/nfp/2024-01-05/
+nfp,Nonfarm Payrolls (NFP),2024-01-05,08:30,2024-01-05T13:30:00Z,S&P 500,-0.2188,0.0083,0.2143,0.4256,,,
+cpi,Consumer Price Index (CPI),2024-01-11,08:30,2024-01-11T13:30:00Z,Nasdaq 100,-0.4636,-0.7128,-0.2533,0.9592,1,,https://tradingcipher.com/cpi/2024-01-11/
+cpi,Consumer Price Index (CPI),2024-01-11,08:30,2024-01-11T13:30:00Z,S&P 500,-0.2728,-0.4753,-0.0680,0.6404,,,
+ppi,Producer Price Index (PPI),2024-01-12,08:30,2024-01-12T13:30:00Z,Nasdaq 100,0.3439,0.3309,0.5938,0.4389,1,,https://tradingcipher.com/ppi/2024-01-12/
+ppi,Producer Price Index (PPI),2024-01-12,08:30,2024-01-12T13:30:00Z,S&P 500,0.2187,0.2502,0.5408,0.2984,,,
+retail_sales,Retail Sales,2024-01-17,08:30,2024-01-17T13:30:00Z,Nasdaq 100,-0.0592,-0.2981,-0.2710,0.4062,0,,https://tradingcipher.com/retail-sales/2024-01-17/
+retail_sales,Retail Sales,2024-01-17,08:30,2024-01-17T13:30:00Z,S&P 500,-0.0063,-0.2105,-0.2413,0.2613,,,
+gdp,Gross Domestic Product (GDP),2024-01-25,08:30,2024-01-25T13:30:00Z,Nasdaq 100,0.2081,0.3207,0.4051,0.5702,0,,https://tradingcipher.com/gdp/2024-01-25/
+gdp,Gross Domestic Product (GDP),2024-01-25,08:30,2024-01-25T13:30:00Z,S&P 500,0.1902,0.2868,0.3490,0.4175,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-01-26,08:30,2024-01-26T13:30:00Z,Nasdaq 100,-0.0894,0.1686,,0.4150,1,,https://tradingcipher.com/core-pce/2024-01-26/
+core_pce,Core PCE (Personal Income and Outlays),2024-01-26,08:30,2024-01-26T13:30:00Z,S&P 500,-0.0583,0.1623,-0.0010,0.3392,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-01-30,10:00,2024-01-30T15:00:00Z,Nasdaq 100,-0.1483,-0.0845,-0.1783,0.3063,1,,https://tradingcipher.com/jolts/2024-01-30/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-01-30,10:00,2024-01-30T15:00:00Z,S&P 500,-0.1106,-0.1063,-0.1307,0.1901,,,
+fomc,Fed Rate Decision (FOMC),2024-01-31,14:00,2024-01-31T19:00:00Z,Nasdaq 100,-0.2321,-0.3066,-0.0314,0.5160,1,,https://tradingcipher.com/fomc/2024-01-31/
+fomc,Fed Rate Decision (FOMC),2024-01-31,14:00,2024-01-31T19:00:00Z,S&P 500,-0.2111,-0.2657,-0.1972,0.4579,,,
+nfp,Nonfarm Payrolls (NFP),2024-02-02,08:30,2024-02-02T13:30:00Z,Nasdaq 100,-0.4691,-0.6410,-0.5797,0.7342,0,,https://tradingcipher.com/nfp/2024-02-02/
+nfp,Nonfarm Payrolls (NFP),2024-02-02,08:30,2024-02-02T13:30:00Z,S&P 500,-0.4230,-0.5869,-0.5184,0.6280,,,
+cpi,Consumer Price Index (CPI),2024-02-13,08:30,2024-02-13T13:30:00Z,Nasdaq 100,-0.8635,-1.0258,-1.2201,1.2954,1,,https://tradingcipher.com/cpi/2024-02-13/
+cpi,Consumer Price Index (CPI),2024-02-13,08:30,2024-02-13T13:30:00Z,S&P 500,-0.6932,-0.9083,-0.9652,1.0224,,,
+retail_sales,Retail Sales,2024-02-15,08:30,2024-02-15T13:30:00Z,Nasdaq 100,0.0984,0.0308,-0.0397,0.2859,1,,https://tradingcipher.com/retail-sales/2024-02-15/
+retail_sales,Retail Sales,2024-02-15,08:30,2024-02-15T13:30:00Z,S&P 500,0.0799,0.0300,-0.0599,0.2255,,,
+ppi,Producer Price Index (PPI),2024-02-16,08:30,2024-02-16T13:30:00Z,Nasdaq 100,-0.3734,-0.2743,-0.3418,0.4993,1,,https://tradingcipher.com/ppi/2024-02-16/
+ppi,Producer Price Index (PPI),2024-02-16,08:30,2024-02-16T13:30:00Z,S&P 500,-0.2768,-0.2123,-0.1730,0.4541,,,
+gdp,Gross Domestic Product (GDP),2024-02-28,08:30,2024-02-28T13:30:00Z,Nasdaq 100,0.0838,0.0521,-0.0639,0.2308,0,,https://tradingcipher.com/gdp/2024-02-28/
+gdp,Gross Domestic Product (GDP),2024-02-28,08:30,2024-02-28T13:30:00Z,S&P 500,0.0855,0.0523,-0.0278,0.1696,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-02-29,08:30,2024-02-29T13:30:00Z,Nasdaq 100,0.5167,0.7776,0.9074,0.9313,1,,https://tradingcipher.com/core-pce/2024-02-29/
+core_pce,Core PCE (Personal Income and Outlays),2024-02-29,08:30,2024-02-29T13:30:00Z,S&P 500,0.3929,0.5948,0.6445,0.6779,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-03-06,10:00,2024-03-06T15:00:00Z,Nasdaq 100,-0.2966,-0.1693,0.1621,0.4812,1,,https://tradingcipher.com/jolts/2024-03-06/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-03-06,10:00,2024-03-06T15:00:00Z,S&P 500,-0.2119,-0.1079,0.1102,0.2978,,,
+nfp,Nonfarm Payrolls (NFP),2024-03-08,08:30,2024-03-08T13:30:00Z,Nasdaq 100,0.2035,0.3996,0.2252,0.8716,0,,https://tradingcipher.com/nfp/2024-03-08/
+nfp,Nonfarm Payrolls (NFP),2024-03-08,08:30,2024-03-08T13:30:00Z,S&P 500,0.1747,0.3413,0.1899,0.7037,,,
+cpi,Consumer Price Index (CPI),2024-03-12,08:30,2024-03-12T12:30:00Z,Nasdaq 100,0.1431,0.1153,0.0922,0.9656,1,,https://tradingcipher.com/cpi/2024-03-12/
+cpi,Consumer Price Index (CPI),2024-03-12,08:30,2024-03-12T12:30:00Z,S&P 500,0.1582,0.2120,0.1884,0.8506,,,
+ppi,Producer Price Index (PPI),2024-03-14,08:30,2024-03-14T12:30:00Z,Nasdaq 100,-0.1978,-0.1786,-0.1560,0.3354,1,retail_sales,https://tradingcipher.com/ppi/2024-03-14/
+ppi,Producer Price Index (PPI),2024-03-14,08:30,2024-03-14T12:30:00Z,S&P 500,-0.1113,-0.1254,-0.1787,0.2242,,retail_sales,
+retail_sales,Retail Sales,2024-03-14,08:30,2024-03-14T12:30:00Z,Nasdaq 100,-0.1978,-0.1786,-0.1560,0.3354,1,ppi,https://tradingcipher.com/retail-sales/2024-03-14/
+retail_sales,Retail Sales,2024-03-14,08:30,2024-03-14T12:30:00Z,S&P 500,-0.1113,-0.1254,-0.1787,0.2242,,ppi,
+fomc,Fed Rate Decision (FOMC),2024-03-20,14:00,2024-03-20T18:00:00Z,Nasdaq 100,0.4874,0.5436,0.8055,0.7723,1,,https://tradingcipher.com/fomc/2024-03-20/
+fomc,Fed Rate Decision (FOMC),2024-03-20,14:00,2024-03-20T18:00:00Z,S&P 500,0.3911,0.4071,0.6688,0.5884,,,
+gdp,Gross Domestic Product (GDP),2024-03-28,08:30,2024-03-28T12:30:00Z,Nasdaq 100,-0.0367,-0.0083,0.0011,0.2911,1,,https://tradingcipher.com/gdp/2024-03-28/
+gdp,Gross Domestic Product (GDP),2024-03-28,08:30,2024-03-28T12:30:00Z,S&P 500,-0.0400,0.0128,0.0312,0.1741,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-04-02,10:00,2024-04-02T14:00:00Z,Nasdaq 100,0.1303,-0.0448,-0.1718,0.3986,1,,https://tradingcipher.com/jolts/2024-04-02/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-04-02,10:00,2024-04-02T14:00:00Z,S&P 500,0.0951,-0.0576,-0.0988,0.2871,,,
+nfp,Nonfarm Payrolls (NFP),2024-04-05,08:30,2024-04-05T12:30:00Z,Nasdaq 100,0.0224,-0.0474,-0.0775,0.7638,1,,https://tradingcipher.com/nfp/2024-04-05/
+nfp,Nonfarm Payrolls (NFP),2024-04-05,08:30,2024-04-05T12:30:00Z,S&P 500,-0.0488,-0.1215,-0.1207,0.4692,,,
+cpi,Consumer Price Index (CPI),2024-04-10,08:30,2024-04-10T12:30:00Z,Nasdaq 100,-1.5304,-1.6609,-1.4788,2.2672,1,,https://tradingcipher.com/cpi/2024-04-10/
+cpi,Consumer Price Index (CPI),2024-04-10,08:30,2024-04-10T12:30:00Z,S&P 500,-1.2324,-1.5110,-1.3641,1.9677,,,
+ppi,Producer Price Index (PPI),2024-04-11,08:30,2024-04-11T12:30:00Z,Nasdaq 100,0.5783,0.6931,0.8088,0.9549,1,,https://tradingcipher.com/ppi/2024-04-11/
+ppi,Producer Price Index (PPI),2024-04-11,08:30,2024-04-11T12:30:00Z,S&P 500,0.4868,0.6208,0.7567,0.8110,,,
+retail_sales,Retail Sales,2024-04-15,08:30,2024-04-15T12:30:00Z,Nasdaq 100,0.0558,0.1628,0.1783,0.4224,0,,https://tradingcipher.com/retail-sales/2024-04-15/
+retail_sales,Retail Sales,2024-04-15,08:30,2024-04-15T12:30:00Z,S&P 500,0.0993,0.1818,0.2565,0.4289,,,
+gdp,Gross Domestic Product (GDP),2024-04-25,08:30,2024-04-25T12:30:00Z,Nasdaq 100,-0.3138,-0.5493,-0.7101,0.8414,0,,https://tradingcipher.com/gdp/2024-04-25/
+gdp,Gross Domestic Product (GDP),2024-04-25,08:30,2024-04-25T12:30:00Z,S&P 500,-0.3125,-0.5235,-0.6327,0.6954,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-04-26,08:30,2024-04-26T12:30:00Z,Nasdaq 100,0.1954,0.0226,-0.1482,0.7003,1,,https://tradingcipher.com/core-pce/2024-04-26/
+core_pce,Core PCE (Personal Income and Outlays),2024-04-26,08:30,2024-04-26T12:30:00Z,S&P 500,0.1903,0.0112,-0.1547,0.5597,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-05-01,10:00,2024-05-01T14:00:00Z,Nasdaq 100,-0.1629,-0.0590,0.0531,0.3921,1,,https://tradingcipher.com/jolts/2024-05-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-05-01,10:00,2024-05-01T14:00:00Z,S&P 500,-0.0989,-0.0115,0.1003,0.2335,,,
+nfp,Nonfarm Payrolls (NFP),2024-05-03,08:30,2024-05-03T12:30:00Z,Nasdaq 100,0.8554,0.9413,1.1355,1.2032,1,,https://tradingcipher.com/nfp/2024-05-03/
+nfp,Nonfarm Payrolls (NFP),2024-05-03,08:30,2024-05-03T12:30:00Z,S&P 500,0.7329,0.7500,0.8454,0.9621,,,
+ppi,Producer Price Index (PPI),2024-05-14,08:30,2024-05-14T12:30:00Z,Nasdaq 100,-0.3545,-0.2082,-0.1494,0.7260,0,,https://tradingcipher.com/ppi/2024-05-14/
+ppi,Producer Price Index (PPI),2024-05-14,08:30,2024-05-14T12:30:00Z,S&P 500,-0.2555,-0.0877,-0.0343,0.5014,,,
+cpi,Consumer Price Index (CPI),2024-05-15,08:30,2024-05-15T12:30:00Z,Nasdaq 100,0.6122,0.5749,0.5686,0.7947,1,retail_sales,https://tradingcipher.com/cpi/2024-05-15/
+cpi,Consumer Price Index (CPI),2024-05-15,08:30,2024-05-15T12:30:00Z,S&P 500,0.4620,0.5013,0.4397,0.6416,,retail_sales,
+retail_sales,Retail Sales,2024-05-15,08:30,2024-05-15T12:30:00Z,Nasdaq 100,0.6122,0.5749,0.5686,0.7947,1,cpi,https://tradingcipher.com/retail-sales/2024-05-15/
+retail_sales,Retail Sales,2024-05-15,08:30,2024-05-15T12:30:00Z,S&P 500,0.4620,0.5013,0.4397,0.6416,,cpi,
+gdp,Gross Domestic Product (GDP),2024-05-30,08:30,2024-05-30T12:30:00Z,Nasdaq 100,0.1421,0.0884,0.0796,0.2026,0,,https://tradingcipher.com/gdp/2024-05-30/
+gdp,Gross Domestic Product (GDP),2024-05-30,08:30,2024-05-30T12:30:00Z,S&P 500,0.1305,0.0829,0.1027,0.1619,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-05-31,08:30,2024-05-31T12:30:00Z,Nasdaq 100,0.2902,0.4027,0.1724,0.5406,1,,https://tradingcipher.com/core-pce/2024-05-31/
+core_pce,Core PCE (Personal Income and Outlays),2024-05-31,08:30,2024-05-31T12:30:00Z,S&P 500,0.2537,0.3494,0.1588,0.4298,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-06-04,10:00,2024-06-04T14:00:00Z,Nasdaq 100,0.1725,0.0838,-0.0119,0.5153,1,,https://tradingcipher.com/jolts/2024-06-04/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-06-04,10:00,2024-06-04T14:00:00Z,S&P 500,0.1060,0.1015,-0.0943,0.3718,,,
+nfp,Nonfarm Payrolls (NFP),2024-06-07,08:30,2024-06-07T12:30:00Z,Nasdaq 100,-0.4341,-0.5712,-0.2795,1.0257,1,,https://tradingcipher.com/nfp/2024-06-07/
+nfp,Nonfarm Payrolls (NFP),2024-06-07,08:30,2024-06-07T12:30:00Z,S&P 500,-0.4217,-0.5057,-0.2724,0.7706,,,
+cpi,Consumer Price Index (CPI),2024-06-12,08:30,2024-06-12T12:30:00Z,Nasdaq 100,0.7102,0.6863,0.5869,0.9925,1,,https://tradingcipher.com/cpi/2024-06-12/
+cpi,Consumer Price Index (CPI),2024-06-12,08:30,2024-06-12T12:30:00Z,S&P 500,0.5557,0.6927,0.6752,0.7859,,,
+fomc,Fed Rate Decision (FOMC),2024-06-12,14:00,2024-06-12T18:00:00Z,Nasdaq 100,-0.1940,0.0507,0.0159,0.4254,1,,https://tradingcipher.com/fomc/2024-06-12/
+fomc,Fed Rate Decision (FOMC),2024-06-12,14:00,2024-06-12T18:00:00Z,S&P 500,-0.1625,0.0199,-0.0081,0.3630,,,
+ppi,Producer Price Index (PPI),2024-06-13,08:30,2024-06-13T12:30:00Z,Nasdaq 100,0.2020,-0.0452,-0.0004,0.3702,0,,https://tradingcipher.com/ppi/2024-06-13/
+ppi,Producer Price Index (PPI),2024-06-13,08:30,2024-06-13T12:30:00Z,S&P 500,0.2008,0.0167,0.0635,0.2926,,,
+retail_sales,Retail Sales,2024-06-18,08:30,2024-06-18T12:30:00Z,Nasdaq 100,-0.0759,-0.1033,-0.1892,0.3820,1,,https://tradingcipher.com/retail-sales/2024-06-18/
+gdp,Gross Domestic Product (GDP),2024-06-27,08:30,2024-06-27T12:30:00Z,Nasdaq 100,0.0823,0.1747,0.1125,0.2619,1,,https://tradingcipher.com/gdp/2024-06-27/
+gdp,Gross Domestic Product (GDP),2024-06-27,08:30,2024-06-27T12:30:00Z,S&P 500,0.0689,0.1157,0.0495,0.1827,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-06-28,08:30,2024-06-28T12:30:00Z,Nasdaq 100,-0.0245,-0.3367,-0.3958,0.4798,1,,https://tradingcipher.com/core-pce/2024-06-28/
+core_pce,Core PCE (Personal Income and Outlays),2024-06-28,08:30,2024-06-28T12:30:00Z,S&P 500,-0.0016,-0.1874,-0.2539,0.3066,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-07-02,10:00,2024-07-02T14:00:00Z,Nasdaq 100,0.0448,-0.0244,0.2361,0.3560,1,,https://tradingcipher.com/jolts/2024-07-02/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-07-02,10:00,2024-07-02T14:00:00Z,S&P 500,0.0576,0.0420,0.1184,0.2160,,,
+nfp,Nonfarm Payrolls (NFP),2024-07-05,08:30,2024-07-05T12:30:00Z,Nasdaq 100,0.0355,-0.1148,-0.0344,0.5392,1,,https://tradingcipher.com/nfp/2024-07-05/
+nfp,Nonfarm Payrolls (NFP),2024-07-05,08:30,2024-07-05T12:30:00Z,S&P 500,0.0520,-0.0195,0.0025,0.2255,,,
+cpi,Consumer Price Index (CPI),2024-07-11,08:30,2024-07-11T12:30:00Z,Nasdaq 100,0.3911,0.0192,0.0416,0.5140,0,,https://tradingcipher.com/cpi/2024-07-11/
+cpi,Consumer Price Index (CPI),2024-07-11,08:30,2024-07-11T12:30:00Z,S&P 500,0.4056,0.0540,0.0855,0.4937,,,
+ppi,Producer Price Index (PPI),2024-07-12,08:30,2024-07-12T12:30:00Z,Nasdaq 100,0.0374,0.0884,0.1066,0.6407,1,,https://tradingcipher.com/ppi/2024-07-12/
+ppi,Producer Price Index (PPI),2024-07-12,08:30,2024-07-12T12:30:00Z,S&P 500,-0.0068,0.0739,0.1097,0.4388,,,
+retail_sales,Retail Sales,2024-07-16,08:30,2024-07-16T12:30:00Z,Nasdaq 100,0.0519,0.0397,0.0946,0.3210,0,,https://tradingcipher.com/retail-sales/2024-07-16/
+retail_sales,Retail Sales,2024-07-16,08:30,2024-07-16T12:30:00Z,S&P 500,0.0686,0.0443,0.1151,0.2138,,,
+gdp,Gross Domestic Product (GDP),2024-07-25,08:30,2024-07-25T12:30:00Z,Nasdaq 100,0.0884,0.5451,0.4587,0.7393,0,,https://tradingcipher.com/gdp/2024-07-25/
+gdp,Gross Domestic Product (GDP),2024-07-25,08:30,2024-07-25T12:30:00Z,S&P 500,0.0526,0.2909,0.2157,0.3482,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-07-26,08:30,2024-07-26T12:30:00Z,Nasdaq 100,-0.1254,-0.1499,-0.2258,0.3961,1,,https://tradingcipher.com/core-pce/2024-07-26/
+core_pce,Core PCE (Personal Income and Outlays),2024-07-26,08:30,2024-07-26T12:30:00Z,S&P 500,-0.0624,-0.0710,-0.1263,0.2668,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-07-30,10:00,2024-07-30T14:00:00Z,Nasdaq 100,-0.1693,-0.3194,-0.6251,0.4485,1,,https://tradingcipher.com/jolts/2024-07-30/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-07-30,10:00,2024-07-30T14:00:00Z,S&P 500,-0.1781,-0.2495,-0.4451,0.3002,,,
+fomc,Fed Rate Decision (FOMC),2024-07-31,14:00,2024-07-31T18:00:00Z,Nasdaq 100,0.0011,0.2249,0.6516,0.4672,1,,https://tradingcipher.com/fomc/2024-07-31/
+fomc,Fed Rate Decision (FOMC),2024-07-31,14:00,2024-07-31T18:00:00Z,S&P 500,0.0036,0.1281,0.5069,0.3373,,,
+nfp,Nonfarm Payrolls (NFP),2024-08-02,08:30,2024-08-02T12:30:00Z,Nasdaq 100,-0.8109,-0.6507,-0.2990,1.2747,1,,https://tradingcipher.com/nfp/2024-08-02/
+nfp,Nonfarm Payrolls (NFP),2024-08-02,08:30,2024-08-02T12:30:00Z,S&P 500,-0.7559,-0.5589,-0.3640,0.8856,,,
+ppi,Producer Price Index (PPI),2024-08-13,08:30,2024-08-13T12:30:00Z,Nasdaq 100,0.2503,0.3376,0.3783,0.4207,1,,https://tradingcipher.com/ppi/2024-08-13/
+ppi,Producer Price Index (PPI),2024-08-13,08:30,2024-08-13T12:30:00Z,S&P 500,0.1664,0.2363,0.2529,0.3676,,,
+cpi,Consumer Price Index (CPI),2024-08-14,08:30,2024-08-14T12:30:00Z,Nasdaq 100,-0.2220,0.0819,0.1208,0.7740,1,,https://tradingcipher.com/cpi/2024-08-14/
+cpi,Consumer Price Index (CPI),2024-08-14,08:30,2024-08-14T12:30:00Z,S&P 500,-0.1598,0.0598,0.0548,0.4514,,,
+retail_sales,Retail Sales,2024-08-15,08:30,2024-08-15T12:30:00Z,Nasdaq 100,0.5810,0.8904,0.9759,1.1808,1,,https://tradingcipher.com/retail-sales/2024-08-15/
+retail_sales,Retail Sales,2024-08-15,08:30,2024-08-15T12:30:00Z,S&P 500,0.4449,0.6769,0.7573,0.8782,,,
+gdp,Gross Domestic Product (GDP),2024-08-29,08:30,2024-08-29T12:30:00Z,Nasdaq 100,0.0837,-0.0260,0.1148,0.3497,0,,https://tradingcipher.com/gdp/2024-08-29/
+gdp,Gross Domestic Product (GDP),2024-08-29,08:30,2024-08-29T12:30:00Z,S&P 500,0.0635,-0.0207,0.0685,0.2485,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-08-30,08:30,2024-08-30T12:30:00Z,Nasdaq 100,-0.0981,-0.1235,0.0459,0.3237,0,,https://tradingcipher.com/core-pce/2024-08-30/
+core_pce,Core PCE (Personal Income and Outlays),2024-08-30,08:30,2024-08-30T12:30:00Z,S&P 500,-0.0582,-0.1382,-0.0713,0.2448,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-09-04,10:00,2024-09-04T14:00:00Z,Nasdaq 100,-0.2669,0.1125,0.6446,0.8607,1,,https://tradingcipher.com/jolts/2024-09-04/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-09-04,10:00,2024-09-04T14:00:00Z,S&P 500,-0.1778,-0.0013,0.2693,0.4926,,,
+nfp,Nonfarm Payrolls (NFP),2024-09-06,08:30,2024-09-06T12:30:00Z,Nasdaq 100,0.4416,0.8328,0.8020,1.1769,0,,https://tradingcipher.com/nfp/2024-09-06/
+nfp,Nonfarm Payrolls (NFP),2024-09-06,08:30,2024-09-06T12:30:00Z,S&P 500,0.3265,0.6237,0.6486,0.8507,,,
+cpi,Consumer Price Index (CPI),2024-09-11,08:30,2024-09-11T12:30:00Z,Nasdaq 100,-0.3759,0.0610,0.2797,0.7612,0,,https://tradingcipher.com/cpi/2024-09-11/
+cpi,Consumer Price Index (CPI),2024-09-11,08:30,2024-09-11T12:30:00Z,S&P 500,-0.3284,-0.0557,0.0535,0.5468,,,
+ppi,Producer Price Index (PPI),2024-09-12,08:30,2024-09-12T12:30:00Z,Nasdaq 100,-0.2078,-0.2603,-0.2575,0.3891,0,,https://tradingcipher.com/ppi/2024-09-12/
+ppi,Producer Price Index (PPI),2024-09-12,08:30,2024-09-12T12:30:00Z,S&P 500,-0.1542,-0.1901,-0.2257,0.3025,,,
+retail_sales,Retail Sales,2024-09-17,08:30,2024-09-17T12:30:00Z,Nasdaq 100,-0.0158,0.0904,0.0759,0.2484,1,,https://tradingcipher.com/retail-sales/2024-09-17/
+retail_sales,Retail Sales,2024-09-17,08:30,2024-09-17T12:30:00Z,S&P 500,-0.0260,0.0628,0.0317,0.1456,,,
+fomc,Fed Rate Decision (FOMC),2024-09-18,14:00,2024-09-18T18:00:00Z,Nasdaq 100,0.5368,0.5928,0.1473,1.3569,0,,https://tradingcipher.com/fomc/2024-09-18/
+fomc,Fed Rate Decision (FOMC),2024-09-18,14:00,2024-09-18T18:00:00Z,S&P 500,0.4730,0.4840,0.1086,1.0233,,,
+gdp,Gross Domestic Product (GDP),2024-09-26,08:30,2024-09-26T12:30:00Z,Nasdaq 100,0.0179,0.1124,0.0494,0.2000,0,,https://tradingcipher.com/gdp/2024-09-26/
+gdp,Gross Domestic Product (GDP),2024-09-26,08:30,2024-09-26T12:30:00Z,S&P 500,-0.0057,0.0014,-0.0303,0.1009,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-09-27,08:30,2024-09-27T12:30:00Z,Nasdaq 100,0.0395,0.0808,0.0781,0.2100,0,,https://tradingcipher.com/core-pce/2024-09-27/
+core_pce,Core PCE (Personal Income and Outlays),2024-09-27,08:30,2024-09-27T12:30:00Z,S&P 500,0.0478,0.1038,0.0788,0.1848,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-10-01,10:00,2024-10-01T14:00:00Z,Nasdaq 100,0.0299,-0.6473,-0.5638,0.9581,0,,https://tradingcipher.com/jolts/2024-10-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-10-01,10:00,2024-10-01T14:00:00Z,S&P 500,0.0030,-0.3647,-0.2648,0.6187,,,
+nfp,Nonfarm Payrolls (NFP),2024-10-04,08:30,2024-10-04T12:30:00Z,Nasdaq 100,0.2659,0.8692,0.7740,0.9236,1,,https://tradingcipher.com/nfp/2024-10-04/
+nfp,Nonfarm Payrolls (NFP),2024-10-04,08:30,2024-10-04T12:30:00Z,S&P 500,0.1175,0.5327,0.4299,0.6201,,,
+cpi,Consumer Price Index (CPI),2024-10-10,08:30,2024-10-10T12:30:00Z,Nasdaq 100,-0.1939,-0.3717,-0.3776,0.7084,1,,https://tradingcipher.com/cpi/2024-10-10/
+cpi,Consumer Price Index (CPI),2024-10-10,08:30,2024-10-10T12:30:00Z,S&P 500,-0.1148,-0.2294,-0.1542,0.4629,,,
+ppi,Producer Price Index (PPI),2024-10-11,08:30,2024-10-11T12:30:00Z,Nasdaq 100,0.0984,-0.0832,-0.2252,0.3015,1,,https://tradingcipher.com/ppi/2024-10-11/
+ppi,Producer Price Index (PPI),2024-10-11,08:30,2024-10-11T12:30:00Z,S&P 500,0.0974,-0.0109,-0.0367,0.2076,,,
+retail_sales,Retail Sales,2024-10-17,08:30,2024-10-17T12:30:00Z,Nasdaq 100,0.0357,0.2126,0.2798,0.2383,0,,https://tradingcipher.com/retail-sales/2024-10-17/
+retail_sales,Retail Sales,2024-10-17,08:30,2024-10-17T12:30:00Z,S&P 500,0.0322,0.0978,0.1755,0.1316,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-10-29,10:00,2024-10-29T14:00:00Z,Nasdaq 100,0.0672,0.1262,0.4097,0.4939,1,,https://tradingcipher.com/jolts/2024-10-29/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-10-29,10:00,2024-10-29T14:00:00Z,S&P 500,0.0897,0.0937,0.2572,0.3897,,,
+gdp,Gross Domestic Product (GDP),2024-10-30,08:30,2024-10-30T12:30:00Z,Nasdaq 100,-0.0293,-0.0979,-0.2374,0.2238,1,,https://tradingcipher.com/gdp/2024-10-30/
+gdp,Gross Domestic Product (GDP),2024-10-30,08:30,2024-10-30T12:30:00Z,S&P 500,-0.0041,-0.0358,-0.0826,0.1311,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-10-31,08:30,2024-10-31T12:30:00Z,Nasdaq 100,-0.0375,-0.1291,-0.2176,0.1940,1,,https://tradingcipher.com/core-pce/2024-10-31/
+core_pce,Core PCE (Personal Income and Outlays),2024-10-31,08:30,2024-10-31T12:30:00Z,S&P 500,-0.0382,-0.0944,-0.2026,0.1316,,,
+nfp,Nonfarm Payrolls (NFP),2024-11-01,08:30,2024-11-01T12:30:00Z,Nasdaq 100,0.1469,0.0684,-0.1526,0.3201,1,,https://tradingcipher.com/nfp/2024-11-01/
+nfp,Nonfarm Payrolls (NFP),2024-11-01,08:30,2024-11-01T12:30:00Z,S&P 500,0.0983,0.1245,0.0285,0.2515,,,
+fomc,Fed Rate Decision (FOMC),2024-11-07,14:00,2024-11-07T19:00:00Z,Nasdaq 100,-0.0156,0.0178,0.2402,0.2056,0,,https://tradingcipher.com/fomc/2024-11-07/
+fomc,Fed Rate Decision (FOMC),2024-11-07,14:00,2024-11-07T19:00:00Z,S&P 500,-0.0335,-0.0168,0.2068,0.2038,,,
+cpi,Consumer Price Index (CPI),2024-11-13,08:30,2024-11-13T13:30:00Z,Nasdaq 100,0.2910,0.1351,0.0575,0.5005,1,,https://tradingcipher.com/cpi/2024-11-13/
+cpi,Consumer Price Index (CPI),2024-11-13,08:30,2024-11-13T13:30:00Z,S&P 500,0.3038,0.1785,0.2075,0.4743,,,
+ppi,Producer Price Index (PPI),2024-11-14,08:30,2024-11-14T13:30:00Z,Nasdaq 100,-0.1842,-0.1934,-0.1783,0.2948,1,,https://tradingcipher.com/ppi/2024-11-14/
+ppi,Producer Price Index (PPI),2024-11-14,08:30,2024-11-14T13:30:00Z,S&P 500,-0.1544,-0.1544,-0.1361,0.2402,,,
+retail_sales,Retail Sales,2024-11-15,08:30,2024-11-15T13:30:00Z,Nasdaq 100,-0.0846,-0.1021,-0.3390,0.2378,1,,https://tradingcipher.com/retail-sales/2024-11-15/
+retail_sales,Retail Sales,2024-11-15,08:30,2024-11-15T13:30:00Z,S&P 500,-0.0532,-0.0545,-0.1642,0.1858,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-11-27,08:30,2024-11-27T13:30:00Z,Nasdaq 100,-0.0427,-0.0111,-0.0926,0.1098,1,gdp,https://tradingcipher.com/core-pce/2024-11-27/
+core_pce,Core PCE (Personal Income and Outlays),2024-11-27,08:30,2024-11-27T13:30:00Z,S&P 500,-0.0022,0.0229,-0.0269,0.0726,,gdp,
+gdp,Gross Domestic Product (GDP),2024-11-27,08:30,2024-11-27T13:30:00Z,Nasdaq 100,-0.0427,-0.0111,-0.0926,0.1098,1,core_pce,https://tradingcipher.com/gdp/2024-11-27/
+gdp,Gross Domestic Product (GDP),2024-11-27,08:30,2024-11-27T13:30:00Z,S&P 500,-0.0022,0.0229,-0.0269,0.0726,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2024-12-03,10:00,2024-12-03T15:00:00Z,Nasdaq 100,0.0335,-0.1220,0.0180,0.3008,1,,https://tradingcipher.com/jolts/2024-12-03/
+jolts,Job Openings and Labor Turnover (JOLTS),2024-12-03,10:00,2024-12-03T15:00:00Z,S&P 500,0.0073,-0.1431,-0.0893,0.1911,,,
+nfp,Nonfarm Payrolls (NFP),2024-12-06,08:30,2024-12-06T13:30:00Z,Nasdaq 100,0.1875,0.0994,0.1052,0.3819,1,,https://tradingcipher.com/nfp/2024-12-06/
+nfp,Nonfarm Payrolls (NFP),2024-12-06,08:30,2024-12-06T13:30:00Z,S&P 500,0.2149,0.2060,0.1983,0.3936,,,
+cpi,Consumer Price Index (CPI),2024-12-11,08:30,2024-12-11T13:30:00Z,Nasdaq 100,0.2009,0.2825,0.5632,0.3718,1,,https://tradingcipher.com/cpi/2024-12-11/
+cpi,Consumer Price Index (CPI),2024-12-11,08:30,2024-12-11T13:30:00Z,S&P 500,0.1623,0.2448,0.3275,0.3086,,,
+ppi,Producer Price Index (PPI),2024-12-12,08:30,2024-12-12T13:30:00Z,Nasdaq 100,-0.1467,-0.1257,-0.0774,0.3760,1,,https://tradingcipher.com/ppi/2024-12-12/
+ppi,Producer Price Index (PPI),2024-12-12,08:30,2024-12-12T13:30:00Z,S&P 500,-0.0922,-0.0792,-0.0058,0.2477,,,
+retail_sales,Retail Sales,2024-12-17,08:30,2024-12-17T13:30:00Z,Nasdaq 100,0.0205,0.0174,-0.0564,0.1621,0,,https://tradingcipher.com/retail-sales/2024-12-17/
+retail_sales,Retail Sales,2024-12-17,08:30,2024-12-17T13:30:00Z,S&P 500,0.0225,0.0471,-0.0256,0.1078,,,
+fomc,Fed Rate Decision (FOMC),2024-12-18,14:00,2024-12-18T19:00:00Z,Nasdaq 100,-0.2908,-0.9832,-1.7237,1.0306,1,,https://tradingcipher.com/fomc/2024-12-18/
+gdp,Gross Domestic Product (GDP),2024-12-19,08:30,2024-12-19T13:30:00Z,Nasdaq 100,-0.0145,-0.1742,0.0725,0.2673,1,,https://tradingcipher.com/gdp/2024-12-19/
+gdp,Gross Domestic Product (GDP),2024-12-19,08:30,2024-12-19T13:30:00Z,S&P 500,0.0108,-0.1310,0.0232,0.1913,,,
+core_pce,Core PCE (Personal Income and Outlays),2024-12-20,08:30,2024-12-20T13:30:00Z,Nasdaq 100,0.4297,0.5741,0.5425,0.6555,1,,https://tradingcipher.com/core-pce/2024-12-20/
+core_pce,Core PCE (Personal Income and Outlays),2024-12-20,08:30,2024-12-20T13:30:00Z,S&P 500,0.3454,0.3115,0.3927,0.5026,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-01-07,10:00,2025-01-07T15:00:00Z,Nasdaq 100,-0.5134,-0.6260,-0.7624,0.9011,1,,https://tradingcipher.com/jolts/2025-01-07/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-01-07,10:00,2025-01-07T15:00:00Z,S&P 500,-0.4490,-0.4745,-0.5074,0.7441,,,
+nfp,Nonfarm Payrolls (NFP),2025-01-10,08:30,2025-01-10T13:30:00Z,Nasdaq 100,-1.0887,-0.8594,-0.5011,1.2141,1,,https://tradingcipher.com/nfp/2025-01-10/
+nfp,Nonfarm Payrolls (NFP),2025-01-10,08:30,2025-01-10T13:30:00Z,S&P 500,-0.8805,-0.7305,-0.4388,1.0075,,,
+ppi,Producer Price Index (PPI),2025-01-14,08:30,2025-01-14T13:30:00Z,Nasdaq 100,0.6954,0.4662,0.5345,0.9031,0,,https://tradingcipher.com/ppi/2025-01-14/
+ppi,Producer Price Index (PPI),2025-01-14,08:30,2025-01-14T13:30:00Z,S&P 500,0.5166,0.3192,0.4106,0.7214,,,
+cpi,Consumer Price Index (CPI),2025-01-15,08:30,2025-01-15T13:30:00Z,Nasdaq 100,1.3845,1.3652,1.2318,1.6224,1,,https://tradingcipher.com/cpi/2025-01-15/
+cpi,Consumer Price Index (CPI),2025-01-15,08:30,2025-01-15T13:30:00Z,S&P 500,1.0693,1.1409,1.0440,1.3329,,,
+retail_sales,Retail Sales,2025-01-16,08:30,2025-01-16T13:30:00Z,Nasdaq 100,-0.0475,0.1296,0.2232,0.2619,1,,https://tradingcipher.com/retail-sales/2025-01-16/
+retail_sales,Retail Sales,2025-01-16,08:30,2025-01-16T13:30:00Z,S&P 500,-0.0480,0.0687,0.1611,0.1791,,,
+fomc,Fed Rate Decision (FOMC),2025-01-29,14:00,2025-01-29T19:00:00Z,Nasdaq 100,-0.1487,-0.3088,0.3367,0.4517,0,,https://tradingcipher.com/fomc/2025-01-29/
+fomc,Fed Rate Decision (FOMC),2025-01-29,14:00,2025-01-29T19:00:00Z,S&P 500,-0.2113,-0.3541,0.1370,0.4182,,,
+gdp,Gross Domestic Product (GDP),2025-01-30,08:30,2025-01-30T13:30:00Z,Nasdaq 100,0.0241,0.1409,0.0575,0.2852,0,,https://tradingcipher.com/gdp/2025-01-30/
+gdp,Gross Domestic Product (GDP),2025-01-30,08:30,2025-01-30T13:30:00Z,S&P 500,0.0091,0.0953,0.0789,0.1941,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-01-31,08:30,2025-01-31T13:30:00Z,Nasdaq 100,-0.0385,0.0242,-0.0431,0.2336,1,,https://tradingcipher.com/core-pce/2025-01-31/
+core_pce,Core PCE (Personal Income and Outlays),2025-01-31,08:30,2025-01-31T13:30:00Z,S&P 500,-0.0266,0.0020,-0.0720,0.1357,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-02-04,10:00,2025-02-04T15:00:00Z,Nasdaq 100,0.1968,0.3765,0.3440,0.5037,1,,https://tradingcipher.com/jolts/2025-02-04/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-02-04,10:00,2025-02-04T15:00:00Z,S&P 500,0.1318,0.2721,0.2343,0.3846,,,
+nfp,Nonfarm Payrolls (NFP),2025-02-07,08:30,2025-02-07T13:30:00Z,Nasdaq 100,-0.0666,0.1178,0.1540,0.5492,1,,https://tradingcipher.com/nfp/2025-02-07/
+nfp,Nonfarm Payrolls (NFP),2025-02-07,08:30,2025-02-07T13:30:00Z,S&P 500,-0.0535,0.1239,0.1480,0.4302,,,
+cpi,Consumer Price Index (CPI),2025-02-12,08:30,2025-02-12T13:30:00Z,Nasdaq 100,-1.0546,-1.2746,-1.2392,1.4955,1,,https://tradingcipher.com/cpi/2025-02-12/
+cpi,Consumer Price Index (CPI),2025-02-12,08:30,2025-02-12T13:30:00Z,S&P 500,-0.9103,-1.0134,-1.0179,1.1752,,,
+ppi,Producer Price Index (PPI),2025-02-13,08:30,2025-02-13T13:30:00Z,Nasdaq 100,0.1484,0.2269,0.1840,0.5072,1,,https://tradingcipher.com/ppi/2025-02-13/
+ppi,Producer Price Index (PPI),2025-02-13,08:30,2025-02-13T13:30:00Z,S&P 500,0.1488,0.2354,0.2236,0.3884,,,
+retail_sales,Retail Sales,2025-02-14,08:30,2025-02-14T13:30:00Z,Nasdaq 100,0.0678,0.1045,0.1197,0.1691,1,,https://tradingcipher.com/retail-sales/2025-02-14/
+retail_sales,Retail Sales,2025-02-14,08:30,2025-02-14T13:30:00Z,S&P 500,0.0308,0.0717,0.0962,0.1149,,,
+gdp,Gross Domestic Product (GDP),2025-02-27,08:30,2025-02-27T13:30:00Z,Nasdaq 100,-0.1166,-0.1942,-0.0420,0.4509,1,,https://tradingcipher.com/gdp/2025-02-27/
+core_pce,Core PCE (Personal Income and Outlays),2025-02-28,08:30,2025-02-28T13:30:00Z,Nasdaq 100,0.2346,0.0794,0.0219,0.4244,1,,https://tradingcipher.com/core-pce/2025-02-28/
+nfp,Nonfarm Payrolls (NFP),2025-03-07,08:30,2025-03-07T13:30:00Z,Nasdaq 100,0.3808,-0.2094,-0.3508,1.1501,1,,https://tradingcipher.com/nfp/2025-03-07/
+nfp,Nonfarm Payrolls (NFP),2025-03-07,08:30,2025-03-07T13:30:00Z,S&P 500,0.2460,-0.2154,-0.3572,0.9778,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-03-11,10:00,2025-03-11T14:00:00Z,Nasdaq 100,-0.7016,-1.0200,-1.0683,1.5264,1,,https://tradingcipher.com/jolts/2025-03-11/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-03-11,10:00,2025-03-11T14:00:00Z,S&P 500,-0.5039,-0.6856,-0.8988,1.1428,,,
+cpi,Consumer Price Index (CPI),2025-03-12,08:30,2025-03-12T12:30:00Z,Nasdaq 100,0.5169,0.6465,0.5052,1.0190,1,,https://tradingcipher.com/cpi/2025-03-12/
+cpi,Consumer Price Index (CPI),2025-03-12,08:30,2025-03-12T12:30:00Z,S&P 500,0.2894,0.3501,0.2022,0.9298,,,
+ppi,Producer Price Index (PPI),2025-03-13,08:30,2025-03-13T12:30:00Z,Nasdaq 100,0.2656,0.2355,0.3120,0.4637,0,,https://tradingcipher.com/ppi/2025-03-13/
+ppi,Producer Price Index (PPI),2025-03-13,08:30,2025-03-13T12:30:00Z,S&P 500,0.1995,0.1973,0.2511,0.2823,,,
+retail_sales,Retail Sales,2025-03-17,08:30,2025-03-17T12:30:00Z,Nasdaq 100,0.3186,0.3890,0.1228,0.5971,1,,https://tradingcipher.com/retail-sales/2025-03-17/
+retail_sales,Retail Sales,2025-03-17,08:30,2025-03-17T12:30:00Z,S&P 500,0.2948,0.3788,,0.5830,,,
+fomc,Fed Rate Decision (FOMC),2025-03-19,14:00,2025-03-19T18:00:00Z,Nasdaq 100,0.2322,0.2976,1.0762,0.7582,1,,https://tradingcipher.com/fomc/2025-03-19/
+fomc,Fed Rate Decision (FOMC),2025-03-19,14:00,2025-03-19T18:00:00Z,S&P 500,0.2073,0.2474,0.8903,0.6179,,,
+gdp,Gross Domestic Product (GDP),2025-03-27,08:30,2025-03-27T12:30:00Z,Nasdaq 100,0.1192,0.0450,-0.1440,0.2728,0,,https://tradingcipher.com/gdp/2025-03-27/
+gdp,Gross Domestic Product (GDP),2025-03-27,08:30,2025-03-27T12:30:00Z,S&P 500,0.0768,0.0107,-0.1561,0.2009,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-03-28,08:30,2025-03-28T12:30:00Z,Nasdaq 100,-0.1586,-0.3483,-0.1026,0.3707,1,,https://tradingcipher.com/core-pce/2025-03-28/
+core_pce,Core PCE (Personal Income and Outlays),2025-03-28,08:30,2025-03-28T12:30:00Z,S&P 500,-0.1123,-0.2770,-0.0748,0.3034,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-04-01,10:00,2025-04-01T14:00:00Z,Nasdaq 100,-0.1886,-0.3813,0.5659,0.8828,0,,https://tradingcipher.com/jolts/2025-04-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-04-01,10:00,2025-04-01T14:00:00Z,S&P 500,-0.2100,-0.4016,0.4322,0.7664,,,
+nfp,Nonfarm Payrolls (NFP),2025-04-04,08:30,2025-04-04T12:30:00Z,Nasdaq 100,0.3618,0.3329,0.0044,0.9523,0,,https://tradingcipher.com/nfp/2025-04-04/
+nfp,Nonfarm Payrolls (NFP),2025-04-04,08:30,2025-04-04T12:30:00Z,S&P 500,0.2869,0.2683,0.0352,0.9495,,,
+cpi,Consumer Price Index (CPI),2025-04-10,08:30,2025-04-10T12:30:00Z,Nasdaq 100,0.4280,-0.0629,-0.2378,1.3403,0,,https://tradingcipher.com/cpi/2025-04-10/
+cpi,Consumer Price Index (CPI),2025-04-10,08:30,2025-04-10T12:30:00Z,S&P 500,0.3850,0.0092,-0.1846,1.1618,,,
+ppi,Producer Price Index (PPI),2025-04-11,08:30,2025-04-11T12:30:00Z,Nasdaq 100,0.4530,-0.3649,-0.7869,1.0228,1,,https://tradingcipher.com/ppi/2025-04-11/
+ppi,Producer Price Index (PPI),2025-04-11,08:30,2025-04-11T12:30:00Z,S&P 500,0.3753,-0.2929,-0.7963,0.8460,,,
+retail_sales,Retail Sales,2025-04-16,08:30,2025-04-16T12:30:00Z,Nasdaq 100,-0.0210,-0.3082,-0.6005,0.4419,1,,https://tradingcipher.com/retail-sales/2025-04-16/
+retail_sales,Retail Sales,2025-04-16,08:30,2025-04-16T12:30:00Z,S&P 500,0.0138,-0.2077,-0.3870,0.3472,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-04-29,10:00,2025-04-29T14:00:00Z,Nasdaq 100,0.2228,-0.0113,0.5051,0.6785,1,,https://tradingcipher.com/jolts/2025-04-29/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-04-29,10:00,2025-04-29T14:00:00Z,S&P 500,0.1466,-0.1126,0.4432,0.6078,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-04-30,08:30,2025-04-30T12:30:00Z,Nasdaq 100,-0.2518,-0.8089,-0.7158,1.1056,0,gdp,https://tradingcipher.com/core-pce/2025-04-30/
+core_pce,Core PCE (Personal Income and Outlays),2025-04-30,08:30,2025-04-30T12:30:00Z,S&P 500,-0.2084,-0.6426,-0.5522,0.9685,,gdp,
+gdp,Gross Domestic Product (GDP),2025-04-30,08:30,2025-04-30T12:30:00Z,Nasdaq 100,-0.2518,-0.8089,-0.7158,1.1056,0,core_pce,https://tradingcipher.com/gdp/2025-04-30/
+gdp,Gross Domestic Product (GDP),2025-04-30,08:30,2025-04-30T12:30:00Z,S&P 500,-0.2084,-0.6426,-0.5522,0.9685,,core_pce,
+nfp,Nonfarm Payrolls (NFP),2025-05-02,08:30,2025-05-02T12:30:00Z,Nasdaq 100,0.3867,0.7746,0.7475,0.8565,1,,https://tradingcipher.com/nfp/2025-05-02/
+nfp,Nonfarm Payrolls (NFP),2025-05-02,08:30,2025-05-02T12:30:00Z,S&P 500,0.3421,0.7444,0.6732,0.8095,,,
+fomc,Fed Rate Decision (FOMC),2025-05-07,14:00,2025-05-07T18:00:00Z,Nasdaq 100,0.0090,-0.2643,0.3115,0.9480,1,,https://tradingcipher.com/fomc/2025-05-07/
+fomc,Fed Rate Decision (FOMC),2025-05-07,14:00,2025-05-07T18:00:00Z,S&P 500,0.0362,-0.2419,0.2700,0.7998,,,
+cpi,Consumer Price Index (CPI),2025-05-13,08:30,2025-05-13T12:30:00Z,Nasdaq 100,0.1207,0.0997,0.0797,0.3878,1,,https://tradingcipher.com/cpi/2025-05-13/
+cpi,Consumer Price Index (CPI),2025-05-13,08:30,2025-05-13T12:30:00Z,S&P 500,0.0942,0.0429,0.0623,0.3703,,,
+ppi,Producer Price Index (PPI),2025-05-15,08:30,2025-05-15T12:30:00Z,Nasdaq 100,0.2774,0.1182,0.1936,0.4188,1,retail_sales,https://tradingcipher.com/ppi/2025-05-15/
+ppi,Producer Price Index (PPI),2025-05-15,08:30,2025-05-15T12:30:00Z,S&P 500,0.2182,0.1013,0.1349,0.3429,,retail_sales,
+retail_sales,Retail Sales,2025-05-15,08:30,2025-05-15T12:30:00Z,Nasdaq 100,0.2774,0.1182,0.1936,0.4188,1,ppi,https://tradingcipher.com/retail-sales/2025-05-15/
+retail_sales,Retail Sales,2025-05-15,08:30,2025-05-15T12:30:00Z,S&P 500,0.2182,0.1013,0.1349,0.3429,,ppi,
+gdp,Gross Domestic Product (GDP),2025-05-29,08:30,2025-05-29T12:30:00Z,Nasdaq 100,0.1259,-0.0627,0.0716,0.2699,0,,https://tradingcipher.com/gdp/2025-05-29/
+gdp,Gross Domestic Product (GDP),2025-05-29,08:30,2025-05-29T12:30:00Z,S&P 500,0.0984,-0.0317,0.1012,0.2446,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-05-30,08:30,2025-05-30T12:30:00Z,Nasdaq 100,0.2702,0.1915,0.4165,0.4440,1,,https://tradingcipher.com/core-pce/2025-05-30/
+core_pce,Core PCE (Personal Income and Outlays),2025-05-30,08:30,2025-05-30T12:30:00Z,S&P 500,0.2338,0.1318,0.3273,0.3318,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-06-03,10:00,2025-06-03T14:00:00Z,Nasdaq 100,0.1137,0.1373,0.3206,0.3729,1,,https://tradingcipher.com/jolts/2025-06-03/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-06-03,10:00,2025-06-03T14:00:00Z,S&P 500,0.0819,0.2445,0.3262,0.3496,,,
+nfp,Nonfarm Payrolls (NFP),2025-06-06,08:30,2025-06-06T12:30:00Z,Nasdaq 100,0.3649,0.3838,0.5527,0.5043,1,,https://tradingcipher.com/nfp/2025-06-06/
+nfp,Nonfarm Payrolls (NFP),2025-06-06,08:30,2025-06-06T12:30:00Z,S&P 500,0.3059,0.3517,0.5115,0.4317,,,
+cpi,Consumer Price Index (CPI),2025-06-11,08:30,2025-06-11T12:30:00Z,Nasdaq 100,0.4778,0.3440,0.2889,0.6644,0,,https://tradingcipher.com/cpi/2025-06-11/
+cpi,Consumer Price Index (CPI),2025-06-11,08:30,2025-06-11T12:30:00Z,S&P 500,0.4100,0.3063,0.2459,0.5860,,,
+ppi,Producer Price Index (PPI),2025-06-12,08:30,2025-06-12T12:30:00Z,Nasdaq 100,0.1457,0.3314,0.2889,0.5457,1,,https://tradingcipher.com/ppi/2025-06-12/
+ppi,Producer Price Index (PPI),2025-06-12,08:30,2025-06-12T12:30:00Z,S&P 500,0.1112,0.3009,0.2989,0.3760,,,
+retail_sales,Retail Sales,2025-06-17,08:30,2025-06-17T12:30:00Z,Nasdaq 100,-0.0458,-0.1435,-0.0939,0.2462,1,,https://tradingcipher.com/retail-sales/2025-06-17/
+retail_sales,Retail Sales,2025-06-17,08:30,2025-06-17T12:30:00Z,S&P 500,-0.0374,-0.1221,-0.0333,0.2037,,,
+fomc,Fed Rate Decision (FOMC),2025-06-18,14:00,2025-06-18T18:00:00Z,Nasdaq 100,-0.2120,-0.0660,-0.5089,0.5018,1,,https://tradingcipher.com/fomc/2025-06-18/
+fomc,Fed Rate Decision (FOMC),2025-06-18,14:00,2025-06-18T18:00:00Z,S&P 500,-0.1516,-0.0393,-0.3992,0.4167,,,
+gdp,Gross Domestic Product (GDP),2025-06-26,08:30,2025-06-26T12:30:00Z,Nasdaq 100,-0.1710,-0.0866,-0.0961,0.2587,0,,https://tradingcipher.com/gdp/2025-06-26/
+gdp,Gross Domestic Product (GDP),2025-06-26,08:30,2025-06-26T12:30:00Z,S&P 500,-0.1063,-0.0265,-0.0464,0.1857,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-06-27,08:30,2025-06-27T12:30:00Z,Nasdaq 100,-0.1062,-0.1623,-0.2723,0.2149,1,,https://tradingcipher.com/core-pce/2025-06-27/
+core_pce,Core PCE (Personal Income and Outlays),2025-06-27,08:30,2025-06-27T12:30:00Z,S&P 500,-0.0749,-0.1014,-0.1880,0.1460,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-07-01,10:00,2025-07-01T14:00:00Z,Nasdaq 100,-0.0396,-0.1998,-0.5381,0.4332,1,,https://tradingcipher.com/jolts/2025-07-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-07-01,10:00,2025-07-01T14:00:00Z,S&P 500,-0.0053,-0.0152,-0.1186,0.2092,,,
+nfp,Nonfarm Payrolls (NFP),2025-07-03,08:30,2025-07-03T12:30:00Z,Nasdaq 100,0.2822,0.1360,0.3092,0.3443,1,,https://tradingcipher.com/nfp/2025-07-03/
+nfp,Nonfarm Payrolls (NFP),2025-07-03,08:30,2025-07-03T12:30:00Z,S&P 500,0.2185,0.0762,0.2009,0.2489,,,
+cpi,Consumer Price Index (CPI),2025-07-15,08:30,2025-07-15T12:30:00Z,Nasdaq 100,0.1471,0.1816,0.2020,0.2830,0,,https://tradingcipher.com/cpi/2025-07-15/
+cpi,Consumer Price Index (CPI),2025-07-15,08:30,2025-07-15T12:30:00Z,S&P 500,0.1487,0.1055,0.1495,0.2488,,,
+ppi,Producer Price Index (PPI),2025-07-16,08:30,2025-07-16T12:30:00Z,Nasdaq 100,0.1623,0.2132,0.2149,0.2685,1,,https://tradingcipher.com/ppi/2025-07-16/
+ppi,Producer Price Index (PPI),2025-07-16,08:30,2025-07-16T12:30:00Z,S&P 500,0.1263,0.1824,0.1984,0.2402,,,
+retail_sales,Retail Sales,2025-07-17,08:30,2025-07-17T12:30:00Z,Nasdaq 100,0.0097,0.2213,0.0251,0.2596,1,,https://tradingcipher.com/retail-sales/2025-07-17/
+retail_sales,Retail Sales,2025-07-17,08:30,2025-07-17T12:30:00Z,S&P 500,-0.0117,0.1918,0.0401,0.2501,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-07-29,10:00,2025-07-29T14:00:00Z,Nasdaq 100,-0.0886,-0.1220,-0.2574,0.2300,1,,https://tradingcipher.com/jolts/2025-07-29/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-07-29,10:00,2025-07-29T14:00:00Z,S&P 500,-0.0297,-0.0341,-0.1987,0.1050,,,
+fomc,Fed Rate Decision (FOMC),2025-07-30,14:00,2025-07-30T18:00:00Z,Nasdaq 100,-0.0550,0.0501,-0.5591,0.1952,1,,https://tradingcipher.com/fomc/2025-07-30/
+fomc,Fed Rate Decision (FOMC),2025-07-30,14:00,2025-07-30T18:00:00Z,S&P 500,-0.0396,0.0172,-0.6091,0.1661,,,
+gdp,Gross Domestic Product (GDP),2025-07-30,08:30,2025-07-30T12:30:00Z,Nasdaq 100,0.0099,0.0247,0.0193,0.1282,1,,https://tradingcipher.com/gdp/2025-07-30/
+gdp,Gross Domestic Product (GDP),2025-07-30,08:30,2025-07-30T12:30:00Z,S&P 500,0.0075,0.0075,0.0234,0.1317,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-07-31,08:30,2025-07-31T12:30:00Z,Nasdaq 100,-0.0445,0.0224,-0.2054,0.1526,1,,https://tradingcipher.com/core-pce/2025-07-31/
+core_pce,Core PCE (Personal Income and Outlays),2025-07-31,08:30,2025-07-31T12:30:00Z,S&P 500,-0.0193,0.0274,-0.1168,0.1207,,,
+nfp,Nonfarm Payrolls (NFP),2025-08-01,08:30,2025-08-01T12:30:00Z,Nasdaq 100,-0.2681,-0.2398,-0.1568,0.4609,1,,https://tradingcipher.com/nfp/2025-08-01/
+nfp,Nonfarm Payrolls (NFP),2025-08-01,08:30,2025-08-01T12:30:00Z,S&P 500,-0.2370,-0.1729,-0.1053,0.4427,,,
+cpi,Consumer Price Index (CPI),2025-08-12,08:30,2025-08-12T12:30:00Z,Nasdaq 100,0.3450,0.5346,0.2624,0.6796,1,,https://tradingcipher.com/cpi/2025-08-12/
+cpi,Consumer Price Index (CPI),2025-08-12,08:30,2025-08-12T12:30:00Z,S&P 500,0.3562,0.4507,0.3178,0.6194,,,
+ppi,Producer Price Index (PPI),2025-08-14,08:30,2025-08-14T12:30:00Z,Nasdaq 100,-0.5554,-0.4594,-0.4020,0.6928,1,,https://tradingcipher.com/ppi/2025-08-14/
+ppi,Producer Price Index (PPI),2025-08-14,08:30,2025-08-14T12:30:00Z,S&P 500,-0.4503,-0.3473,-0.3207,0.5586,,,
+retail_sales,Retail Sales,2025-08-15,08:30,2025-08-15T12:30:00Z,Nasdaq 100,0.0271,0.0216,0.0530,0.1084,0,,https://tradingcipher.com/retail-sales/2025-08-15/
+retail_sales,Retail Sales,2025-08-15,08:30,2025-08-15T12:30:00Z,S&P 500,0.0314,0.0429,0.0198,0.0948,,,
+fomc,Fed Rate Decision (FOMC),2025-08-22,14:00,2025-08-22T18:00:00Z,Nasdaq 100,0.0507,-0.1254,0.0585,0.2840,0,,https://tradingcipher.com/fomc/2025-08-22/
+fomc,Fed Rate Decision (FOMC),2025-08-22,14:00,2025-08-22T18:00:00Z,S&P 500,0.0219,-0.0601,-0.0545,0.1126,,,
+gdp,Gross Domestic Product (GDP),2025-08-28,08:30,2025-08-28T12:30:00Z,Nasdaq 100,0.1265,0.1401,0.1691,0.2458,1,,https://tradingcipher.com/gdp/2025-08-28/
+gdp,Gross Domestic Product (GDP),2025-08-28,08:30,2025-08-28T12:30:00Z,S&P 500,0.0869,0.0889,0.1062,0.1699,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-08-29,08:30,2025-08-29T12:30:00Z,Nasdaq 100,0.1437,0.1526,0.0949,0.2230,0,,https://tradingcipher.com/core-pce/2025-08-29/
+core_pce,Core PCE (Personal Income and Outlays),2025-08-29,08:30,2025-08-29T12:30:00Z,S&P 500,0.0987,0.1023,0.0679,0.1751,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-09-03,10:00,2025-09-03T14:00:00Z,Nasdaq 100,0.2328,0.2159,0.5319,0.4167,1,,https://tradingcipher.com/jolts/2025-09-03/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-09-03,10:00,2025-09-03T14:00:00Z,S&P 500,0.1109,0.0692,0.3217,0.2507,,,
+nfp,Nonfarm Payrolls (NFP),2025-09-05,08:30,2025-09-05T12:30:00Z,Nasdaq 100,0.2095,0.3987,0.3989,0.6210,0,,https://tradingcipher.com/nfp/2025-09-05/
+nfp,Nonfarm Payrolls (NFP),2025-09-05,08:30,2025-09-05T12:30:00Z,S&P 500,0.1844,0.3194,0.2848,0.4952,,,
+ppi,Producer Price Index (PPI),2025-09-10,08:30,2025-09-10T12:30:00Z,Nasdaq 100,0.3346,0.2656,0.2453,0.4359,0,,https://tradingcipher.com/ppi/2025-09-10/
+ppi,Producer Price Index (PPI),2025-09-10,08:30,2025-09-10T12:30:00Z,S&P 500,0.2585,0.2051,0.1781,0.3634,,,
+cpi,Consumer Price Index (CPI),2025-09-11,08:30,2025-09-11T12:30:00Z,Nasdaq 100,-0.2795,0.0408,0.1134,0.3914,0,,https://tradingcipher.com/cpi/2025-09-11/
+cpi,Consumer Price Index (CPI),2025-09-11,08:30,2025-09-11T12:30:00Z,S&P 500,-0.2119,0.0496,0.0463,0.3894,,,
+retail_sales,Retail Sales,2025-09-16,08:30,2025-09-16T12:30:00Z,Nasdaq 100,0.0221,0.0184,-0.0138,0.0890,0,,https://tradingcipher.com/retail-sales/2025-09-16/
+retail_sales,Retail Sales,2025-09-16,08:30,2025-09-16T12:30:00Z,S&P 500,0.0065,-0.0373,-0.0273,0.1040,,,
+fomc,Fed Rate Decision (FOMC),2025-09-17,14:00,2025-09-17T18:00:00Z,Nasdaq 100,0.2317,-0.0655,-0.2635,0.9507,1,,https://tradingcipher.com/fomc/2025-09-17/
+fomc,Fed Rate Decision (FOMC),2025-09-17,14:00,2025-09-17T18:00:00Z,S&P 500,0.3124,0.1098,-0.2930,0.7035,,,
+gdp,Gross Domestic Product (GDP),2025-09-25,08:30,2025-09-25T12:30:00Z,Nasdaq 100,-0.0878,-0.1795,-0.1437,0.2837,0,,https://tradingcipher.com/gdp/2025-09-25/
+gdp,Gross Domestic Product (GDP),2025-09-25,08:30,2025-09-25T12:30:00Z,S&P 500,-0.0652,-0.1559,-0.1331,0.2389,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-09-26,08:30,2025-09-26T12:30:00Z,Nasdaq 100,0.2461,0.2054,0.0398,0.4297,1,,https://tradingcipher.com/core-pce/2025-09-26/
+core_pce,Core PCE (Personal Income and Outlays),2025-09-26,08:30,2025-09-26T12:30:00Z,S&P 500,0.1729,0.1728,0.0518,0.3228,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-09-30,10:00,2025-09-30T14:00:00Z,Nasdaq 100,0.0541,-0.0116,0.2205,0.2626,1,,https://tradingcipher.com/jolts/2025-09-30/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-09-30,10:00,2025-09-30T14:00:00Z,S&P 500,0.0245,-0.0296,0.0305,0.1995,,,
+cpi,Consumer Price Index (CPI),2025-10-24,08:30,2025-10-24T12:30:00Z,Nasdaq 100,0.4217,0.3423,0.3708,0.6555,1,,https://tradingcipher.com/cpi/2025-10-24/
+cpi,Consumer Price Index (CPI),2025-10-24,08:30,2025-10-24T12:30:00Z,S&P 500,0.3362,0.2588,0.3723,0.6258,,,
+fomc,Fed Rate Decision (FOMC),2025-10-29,14:00,2025-10-29T18:00:00Z,Nasdaq 100,-0.0483,-0.0138,-0.2589,0.3026,0,,https://tradingcipher.com/fomc/2025-10-29/
+fomc,Fed Rate Decision (FOMC),2025-10-29,14:00,2025-10-29T18:00:00Z,S&P 500,-0.0116,-0.0072,-0.2955,0.2154,,,
+nfp,Nonfarm Payrolls (NFP),2025-11-20,08:30,2025-11-20T13:30:00Z,Nasdaq 100,0.2057,0.3802,0.2924,0.5430,0,,https://tradingcipher.com/nfp/2025-11-20/
+nfp,Nonfarm Payrolls (NFP),2025-11-20,08:30,2025-11-20T13:30:00Z,S&P 500,0.2034,0.4040,0.3562,0.5031,,,
+ppi,Producer Price Index (PPI),2025-11-25,08:30,2025-11-25T13:30:00Z,Nasdaq 100,-0.1387,-0.2239,-0.3291,0.3377,0,retail_sales,https://tradingcipher.com/ppi/2025-11-25/
+ppi,Producer Price Index (PPI),2025-11-25,08:30,2025-11-25T13:30:00Z,S&P 500,-0.0760,-0.1133,-0.1283,0.2179,,retail_sales,
+retail_sales,Retail Sales,2025-11-25,08:30,2025-11-25T13:30:00Z,Nasdaq 100,-0.1387,-0.2239,-0.3291,0.3377,0,ppi,https://tradingcipher.com/retail-sales/2025-11-25/
+retail_sales,Retail Sales,2025-11-25,08:30,2025-11-25T13:30:00Z,S&P 500,-0.0760,-0.1133,-0.1283,0.2179,,ppi,
+core_pce,Core PCE (Personal Income and Outlays),2025-12-05,08:30,2025-12-05T13:30:00Z,Nasdaq 100,-0.0955,-0.2872,-0.0293,0.4269,0,,https://tradingcipher.com/core-pce/2025-12-05/
+core_pce,Core PCE (Personal Income and Outlays),2025-12-05,08:30,2025-12-05T13:30:00Z,S&P 500,-0.0613,-0.1846,-0.0215,0.2914,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2025-12-09,10:00,2025-12-09T15:00:00Z,Nasdaq 100,0.0312,0.1066,0.2113,0.2011,1,,https://tradingcipher.com/jolts/2025-12-09/
+jolts,Job Openings and Labor Turnover (JOLTS),2025-12-09,10:00,2025-12-09T15:00:00Z,S&P 500,0.0175,-0.0414,0.0071,0.1739,,,
+fomc,Fed Rate Decision (FOMC),2025-12-10,14:00,2025-12-10T19:00:00Z,Nasdaq 100,0.1491,0.2034,0.8102,0.5189,1,,https://tradingcipher.com/fomc/2025-12-10/
+fomc,Fed Rate Decision (FOMC),2025-12-10,14:00,2025-12-10T19:00:00Z,S&P 500,0.1518,0.1958,0.7367,0.4490,,,
+nfp,Nonfarm Payrolls (NFP),2025-12-16,08:30,2025-12-16T13:30:00Z,Nasdaq 100,0.2265,-0.1552,-0.2342,0.5654,1,retail_sales,https://tradingcipher.com/nfp/2025-12-16/
+nfp,Nonfarm Payrolls (NFP),2025-12-16,08:30,2025-12-16T13:30:00Z,S&P 500,0.1907,-0.0662,-0.1616,0.3951,,retail_sales,
+retail_sales,Retail Sales,2025-12-16,08:30,2025-12-16T13:30:00Z,Nasdaq 100,0.2265,-0.1552,-0.2342,0.5654,1,nfp,https://tradingcipher.com/retail-sales/2025-12-16/
+retail_sales,Retail Sales,2025-12-16,08:30,2025-12-16T13:30:00Z,S&P 500,0.1907,-0.0662,-0.1616,0.3951,,nfp,
+cpi,Consumer Price Index (CPI),2025-12-18,08:30,2025-12-18T13:30:00Z,Nasdaq 100,0.2729,0.4655,0.6914,0.6352,1,,https://tradingcipher.com/cpi/2025-12-18/
+cpi,Consumer Price Index (CPI),2025-12-18,08:30,2025-12-18T13:30:00Z,S&P 500,0.1654,0.2987,0.4545,0.4281,,,
+core_pce,Core PCE (Personal Income and Outlays),2025-12-23,08:30,2025-12-23T13:30:00Z,Nasdaq 100,-0.0004,-0.1986,-0.1052,0.2711,0,,https://tradingcipher.com/core-pce/2025-12-23/
+core_pce,Core PCE (Personal Income and Outlays),2025-12-23,08:30,2025-12-23T13:30:00Z,S&P 500,-0.0116,-0.1600,-0.1135,0.2200,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-01-07,10:00,2026-01-07T15:00:00Z,Nasdaq 100,-0.0563,0.0416,0.1922,0.2479,1,,https://tradingcipher.com/jolts/2026-01-07/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-01-07,10:00,2026-01-07T15:00:00Z,S&P 500,-0.0993,-0.1321,-0.0134,0.2359,,,
+nfp,Nonfarm Payrolls (NFP),2026-01-09,08:30,2026-01-09T13:30:00Z,Nasdaq 100,0.1565,0.2479,-0.1068,0.2694,1,,https://tradingcipher.com/nfp/2026-01-09/
+nfp,Nonfarm Payrolls (NFP),2026-01-09,08:30,2026-01-09T13:30:00Z,S&P 500,0.1038,0.1656,-0.0724,0.2018,,,
+cpi,Consumer Price Index (CPI),2026-01-13,08:30,2026-01-13T13:30:00Z,Nasdaq 100,0.4097,0.2316,0.1524,0.5432,0,,https://tradingcipher.com/cpi/2026-01-13/
+cpi,Consumer Price Index (CPI),2026-01-13,08:30,2026-01-13T13:30:00Z,S&P 500,0.3300,0.1769,0.1505,0.4164,,,
+ppi,Producer Price Index (PPI),2026-01-14,08:30,2026-01-14T13:30:00Z,Nasdaq 100,-0.1210,-0.1629,-0.2194,0.2763,1,retail_sales,https://tradingcipher.com/ppi/2026-01-14/
+ppi,Producer Price Index (PPI),2026-01-14,08:30,2026-01-14T13:30:00Z,S&P 500,-0.0702,-0.1091,-0.0947,0.1863,,retail_sales,
+retail_sales,Retail Sales,2026-01-14,08:30,2026-01-14T13:30:00Z,Nasdaq 100,-0.1210,-0.1629,-0.2194,0.2763,1,ppi,https://tradingcipher.com/retail-sales/2026-01-14/
+retail_sales,Retail Sales,2026-01-14,08:30,2026-01-14T13:30:00Z,S&P 500,-0.0702,-0.1091,-0.0947,0.1863,,ppi,
+core_pce,Core PCE (Personal Income and Outlays),2026-01-22,08:30,2026-01-22T13:30:00Z,Nasdaq 100,-0.0317,0.1273,0.0969,0.2381,1,,https://tradingcipher.com/core-pce/2026-01-22/
+core_pce,Core PCE (Personal Income and Outlays),2026-01-22,08:30,2026-01-22T13:30:00Z,S&P 500,-0.0169,0.0984,0.0653,0.1733,,,
+fomc,Fed Rate Decision (FOMC),2026-01-28,14:00,2026-01-28T19:00:00Z,Nasdaq 100,-0.0670,-0.1837,-0.0369,0.2961,1,,https://tradingcipher.com/fomc/2026-01-28/
+fomc,Fed Rate Decision (FOMC),2026-01-28,14:00,2026-01-28T19:00:00Z,S&P 500,-0.0132,-0.1346,-0.0257,0.2299,,,
+ppi,Producer Price Index (PPI),2026-01-30,08:30,2026-01-30T13:30:00Z,Nasdaq 100,-0.1797,-0.1265,-0.0940,0.3200,1,,https://tradingcipher.com/ppi/2026-01-30/
+ppi,Producer Price Index (PPI),2026-01-30,08:30,2026-01-30T13:30:00Z,S&P 500,-0.1184,-0.0851,0.0548,0.2524,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-02-05,10:00,2026-02-05T15:00:00Z,Nasdaq 100,-0.2695,-0.7692,-0.5527,1.0199,1,,https://tradingcipher.com/jolts/2026-02-05/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-02-05,10:00,2026-02-05T15:00:00Z,S&P 500,-0.1861,-0.5860,-0.4873,0.7699,,,
+retail_sales,Retail Sales,2026-02-10,08:30,2026-02-10T13:30:00Z,Nasdaq 100,0.0692,0.1634,0.1783,0.2873,0,,https://tradingcipher.com/retail-sales/2026-02-10/
+retail_sales,Retail Sales,2026-02-10,08:30,2026-02-10T13:30:00Z,S&P 500,0.0431,0.0759,0.1624,0.1657,,,
+nfp,Nonfarm Payrolls (NFP),2026-02-11,08:30,2026-02-11T13:30:00Z,Nasdaq 100,0.4372,0.7595,0.6620,0.8074,1,,https://tradingcipher.com/nfp/2026-02-11/
+nfp,Nonfarm Payrolls (NFP),2026-02-11,08:30,2026-02-11T13:30:00Z,S&P 500,0.3321,0.4640,0.4516,0.4923,,,
+cpi,Consumer Price Index (CPI),2026-02-13,08:30,2026-02-13T13:30:00Z,Nasdaq 100,0.3258,0.3283,0.1736,0.5508,1,,https://tradingcipher.com/cpi/2026-02-13/
+cpi,Consumer Price Index (CPI),2026-02-13,08:30,2026-02-13T13:30:00Z,S&P 500,0.2653,0.2507,0.1950,0.4209,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-02-20,08:30,2026-02-20T13:30:00Z,Nasdaq 100,-0.3232,-0.3510,-0.5772,0.5676,0,gdp,https://tradingcipher.com/core-pce/2026-02-20/
+core_pce,Core PCE (Personal Income and Outlays),2026-02-20,08:30,2026-02-20T13:30:00Z,S&P 500,-0.2275,-0.2132,-0.3400,0.3793,,gdp,
+gdp,Gross Domestic Product (GDP),2026-02-20,08:30,2026-02-20T13:30:00Z,Nasdaq 100,-0.3232,-0.3510,-0.5772,0.5676,0,core_pce,https://tradingcipher.com/gdp/2026-02-20/
+gdp,Gross Domestic Product (GDP),2026-02-20,08:30,2026-02-20T13:30:00Z,S&P 500,-0.2275,-0.2132,-0.3400,0.3793,,core_pce,
+ppi,Producer Price Index (PPI),2026-02-27,08:30,2026-02-27T13:30:00Z,Nasdaq 100,-0.2057,-0.0689,-0.3076,0.3900,,,https://tradingcipher.com/ppi/2026-02-27/
+ppi,Producer Price Index (PPI),2026-02-27,08:30,2026-02-27T13:30:00Z,S&P 500,-0.1739,-0.0465,-0.1954,0.2584,,,
+nfp,Nonfarm Payrolls (NFP),2026-03-06,08:30,2026-03-06T13:30:00Z,Nasdaq 100,-0.1839,-0.8996,-0.7354,1.0392,1,retail_sales,https://tradingcipher.com/nfp/2026-03-06/
+nfp,Nonfarm Payrolls (NFP),2026-03-06,08:30,2026-03-06T13:30:00Z,S&P 500,-0.1768,-0.7989,-0.6889,0.9639,,retail_sales,
+retail_sales,Retail Sales,2026-03-06,08:30,2026-03-06T13:30:00Z,Nasdaq 100,-0.1839,-0.8996,-0.7354,1.0392,1,nfp,https://tradingcipher.com/retail-sales/2026-03-06/
+retail_sales,Retail Sales,2026-03-06,08:30,2026-03-06T13:30:00Z,S&P 500,-0.1768,-0.7989,-0.6889,0.9639,,nfp,
+cpi,Consumer Price Index (CPI),2026-03-11,08:30,2026-03-11T12:30:00Z,Nasdaq 100,-0.2180,-0.2006,0.1508,0.4300,1,,https://tradingcipher.com/cpi/2026-03-11/
+cpi,Consumer Price Index (CPI),2026-03-11,08:30,2026-03-11T12:30:00Z,S&P 500,-0.2224,-0.2580,0.0398,0.5161,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-03-13,08:30,2026-03-13T12:30:00Z,Nasdaq 100,0.0283,0.1182,-0.0102,0.4040,0,gdp,https://tradingcipher.com/core-pce/2026-03-13/
+core_pce,Core PCE (Personal Income and Outlays),2026-03-13,08:30,2026-03-13T12:30:00Z,S&P 500,0.0285,0.0957,0.0510,0.3807,,gdp,
+gdp,Gross Domestic Product (GDP),2026-03-13,08:30,2026-03-13T12:30:00Z,Nasdaq 100,0.0283,0.1182,-0.0102,0.4040,0,core_pce,https://tradingcipher.com/gdp/2026-03-13/
+gdp,Gross Domestic Product (GDP),2026-03-13,08:30,2026-03-13T12:30:00Z,S&P 500,0.0285,0.0957,0.0510,0.3807,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-03-13,10:00,2026-03-13T14:00:00Z,Nasdaq 100,-0.0638,-0.2170,-0.9644,0.5268,1,,https://tradingcipher.com/jolts/2026-03-13/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-03-13,10:00,2026-03-13T14:00:00Z,S&P 500,-0.0734,-0.2548,-0.7832,0.5271,,,
+fomc,Fed Rate Decision (FOMC),2026-03-18,14:00,2026-03-18T18:00:00Z,Nasdaq 100,0.1021,-0.1005,-0.5511,0.3603,0,,https://tradingcipher.com/fomc/2026-03-18/
+fomc,Fed Rate Decision (FOMC),2026-03-18,14:00,2026-03-18T18:00:00Z,S&P 500,0.0574,-0.0914,-0.5112,0.3151,,,
+ppi,Producer Price Index (PPI),2026-03-18,08:30,2026-03-18T12:30:00Z,Nasdaq 100,-0.2324,-0.5741,-0.3816,0.6499,1,,https://tradingcipher.com/ppi/2026-03-18/
+ppi,Producer Price Index (PPI),2026-03-18,08:30,2026-03-18T12:30:00Z,S&P 500,-0.2402,-0.5485,-0.4118,0.6249,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-03-31,10:00,2026-03-31T14:00:00Z,Nasdaq 100,-0.0359,-0.0028,-0.6782,0.3553,0,,https://tradingcipher.com/jolts/2026-03-31/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-03-31,10:00,2026-03-31T14:00:00Z,S&P 500,-0.0484,-0.0326,-0.6294,0.3223,,,
+retail_sales,Retail Sales,2026-04-01,08:30,2026-04-01T12:30:00Z,Nasdaq 100,-0.0160,-0.3409,-0.2241,0.4595,0,,https://tradingcipher.com/retail-sales/2026-04-01/
+retail_sales,Retail Sales,2026-04-01,08:30,2026-04-01T12:30:00Z,S&P 500,-0.0365,-0.2953,-0.1401,0.6375,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-04-09,08:30,2026-04-09T12:30:00Z,Nasdaq 100,-0.0329,-0.0220,0.1865,0.1463,0,gdp,https://tradingcipher.com/core-pce/2026-04-09/
+core_pce,Core PCE (Personal Income and Outlays),2026-04-09,08:30,2026-04-09T12:30:00Z,S&P 500,-0.0254,0.0089,0.0931,0.1584,,gdp,
+gdp,Gross Domestic Product (GDP),2026-04-09,08:30,2026-04-09T12:30:00Z,Nasdaq 100,-0.0329,-0.0220,0.1865,0.1463,0,core_pce,https://tradingcipher.com/gdp/2026-04-09/
+gdp,Gross Domestic Product (GDP),2026-04-09,08:30,2026-04-09T12:30:00Z,S&P 500,-0.0254,0.0089,0.0931,0.1584,,core_pce,
+cpi,Consumer Price Index (CPI),2026-04-10,08:30,2026-04-10T12:30:00Z,Nasdaq 100,-0.0774,-0.0565,-0.0152,0.2926,1,,https://tradingcipher.com/cpi/2026-04-10/
+cpi,Consumer Price Index (CPI),2026-04-10,08:30,2026-04-10T12:30:00Z,S&P 500,-0.0162,-0.0329,0.0181,0.2212,,,
+ppi,Producer Price Index (PPI),2026-04-14,08:30,2026-04-14T12:30:00Z,Nasdaq 100,-0.0804,-0.0694,-0.1478,0.2100,0,,https://tradingcipher.com/ppi/2026-04-14/
+ppi,Producer Price Index (PPI),2026-04-14,08:30,2026-04-14T12:30:00Z,S&P 500,-0.0405,-0.0652,-0.0941,0.1811,,,
+retail_sales,Retail Sales,2026-04-21,08:30,2026-04-21T12:30:00Z,Nasdaq 100,0.0287,-0.1454,-0.1927,0.2218,0,,https://tradingcipher.com/retail-sales/2026-04-21/
+retail_sales,Retail Sales,2026-04-21,08:30,2026-04-21T12:30:00Z,S&P 500,0.0018,-0.1386,-0.1626,0.2213,,,
+fomc,Fed Rate Decision (FOMC),2026-04-29,14:00,2026-04-29T18:00:00Z,Nasdaq 100,-0.1722,-0.1455,0.1717,0.3537,0,,https://tradingcipher.com/fomc/2026-04-29/
+fomc,Fed Rate Decision (FOMC),2026-04-29,14:00,2026-04-29T18:00:00Z,S&P 500,-0.1599,-0.1923,-0.0013,0.3160,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-04-30,08:30,2026-04-30T12:30:00Z,Nasdaq 100,-0.1527,-0.0597,-0.1627,0.2512,0,gdp,https://tradingcipher.com/core-pce/2026-04-30/
+core_pce,Core PCE (Personal Income and Outlays),2026-04-30,08:30,2026-04-30T12:30:00Z,S&P 500,-0.1270,-0.0767,-0.1210,0.1856,,gdp,
+gdp,Gross Domestic Product (GDP),2026-04-30,08:30,2026-04-30T12:30:00Z,Nasdaq 100,-0.1527,-0.0597,-0.1627,0.2512,0,core_pce,https://tradingcipher.com/gdp/2026-04-30/
+gdp,Gross Domestic Product (GDP),2026-04-30,08:30,2026-04-30T12:30:00Z,S&P 500,-0.1270,-0.0767,-0.1210,0.1856,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-05-05,10:00,2026-05-05T14:00:00Z,Nasdaq 100,0.0487,0.1131,0.0331,0.3571,1,,https://tradingcipher.com/jolts/2026-05-05/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-05-05,10:00,2026-05-05T14:00:00Z,S&P 500,0.0288,0.1051,0.0799,0.2620,,,
+nfp,Nonfarm Payrolls (NFP),2026-05-08,08:30,2026-05-08T12:30:00Z,Nasdaq 100,0.1107,0.0343,-0.0898,0.2862,1,,https://tradingcipher.com/nfp/2026-05-08/
+nfp,Nonfarm Payrolls (NFP),2026-05-08,08:30,2026-05-08T12:30:00Z,S&P 500,0.0963,-0.0298,-0.0666,0.2344,,,
+cpi,Consumer Price Index (CPI),2026-05-12,08:30,2026-05-12T12:30:00Z,Nasdaq 100,0.0678,0.2463,0.2063,0.4063,1,,https://tradingcipher.com/cpi/2026-05-12/
+cpi,Consumer Price Index (CPI),2026-05-12,08:30,2026-05-12T12:30:00Z,S&P 500,0.0244,0.1747,0.1052,0.2942,,,
+ppi,Producer Price Index (PPI),2026-05-13,08:30,2026-05-13T12:30:00Z,Nasdaq 100,-0.2817,-0.4236,-0.2450,0.5463,0,,https://tradingcipher.com/ppi/2026-05-13/
+ppi,Producer Price Index (PPI),2026-05-13,08:30,2026-05-13T12:30:00Z,S&P 500,-0.1913,-0.2384,-0.1238,0.3006,,,
+retail_sales,Retail Sales,2026-05-14,08:30,2026-05-14T12:30:00Z,Nasdaq 100,-0.0458,-0.2269,-0.2906,0.2941,0,,https://tradingcipher.com/retail-sales/2026-05-14/
+retail_sales,Retail Sales,2026-05-14,08:30,2026-05-14T12:30:00Z,S&P 500,-0.0095,-0.0938,-0.2099,0.1433,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-05-28,08:30,2026-05-28T12:30:00Z,Nasdaq 100,0.1145,0.3516,0.3454,0.3923,1,gdp,https://tradingcipher.com/core-pce/2026-05-28/
+core_pce,Core PCE (Personal Income and Outlays),2026-05-28,08:30,2026-05-28T12:30:00Z,S&P 500,0.0550,0.1744,0.1341,0.2012,,gdp,
+gdp,Gross Domestic Product (GDP),2026-05-28,08:30,2026-05-28T12:30:00Z,Nasdaq 100,0.1145,0.3516,0.3454,0.3923,1,core_pce,https://tradingcipher.com/gdp/2026-05-28/
+gdp,Gross Domestic Product (GDP),2026-05-28,08:30,2026-05-28T12:30:00Z,S&P 500,0.0550,0.1744,0.1341,0.2012,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-06-02,10:00,2026-06-02T14:00:00Z,Nasdaq 100,0.0086,-0.1383,0.1405,0.3564,1,,https://tradingcipher.com/jolts/2026-06-02/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-06-02,10:00,2026-06-02T14:00:00Z,S&P 500,0.0237,0.0146,0.2804,0.1621,,,
+nfp,Nonfarm Payrolls (NFP),2026-06-05,08:30,2026-06-05T12:30:00Z,Nasdaq 100,-0.1732,-0.1970,-0.2540,0.3000,1,,https://tradingcipher.com/nfp/2026-06-05/
+nfp,Nonfarm Payrolls (NFP),2026-06-05,08:30,2026-06-05T12:30:00Z,S&P 500,-0.1153,-0.1218,-0.1416,0.2911,,,
+cpi,Consumer Price Index (CPI),2026-06-10,08:30,2026-06-10T12:30:00Z,Nasdaq 100,0.5724,0.2739,0.3382,0.8810,0,,https://tradingcipher.com/cpi/2026-06-10/
+cpi,Consumer Price Index (CPI),2026-06-10,08:30,2026-06-10T12:30:00Z,S&P 500,0.2142,0.1709,0.2323,0.4179,,,
+ppi,Producer Price Index (PPI),2026-06-11,08:30,2026-06-11T12:30:00Z,Nasdaq 100,-0.2181,0.2173,0.0108,0.6259,0,,https://tradingcipher.com/ppi/2026-06-11/
+ppi,Producer Price Index (PPI),2026-06-11,08:30,2026-06-11T12:30:00Z,S&P 500,-0.1329,0.1357,0.0219,0.4248,,,
+fomc,Fed Rate Decision (FOMC),2026-06-17,14:00,2026-06-17T18:00:00Z,Nasdaq 100,-0.9573,-0.7392,-0.6390,1.3148,1,,https://tradingcipher.com/fomc/2026-06-17/
+fomc,Fed Rate Decision (FOMC),2026-06-17,14:00,2026-06-17T18:00:00Z,S&P 500,-0.7598,-0.6142,-0.6449,0.9928,,,
+retail_sales,Retail Sales,2026-06-17,08:30,2026-06-17T12:30:00Z,Nasdaq 100,0.0867,0.0879,0.2137,0.1938,0,,https://tradingcipher.com/retail-sales/2026-06-17/
+retail_sales,Retail Sales,2026-06-17,08:30,2026-06-17T12:30:00Z,S&P 500,0.0375,0.0589,0.0710,0.0919,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-06-25,08:30,2026-06-25T12:30:00Z,Nasdaq 100,0.2702,0.2583,0.0896,0.4659,0,gdp,https://tradingcipher.com/core-pce/2026-06-25/
+core_pce,Core PCE (Personal Income and Outlays),2026-06-25,08:30,2026-06-25T12:30:00Z,S&P 500,0.1976,0.1639,0.1462,0.2969,,gdp,
+gdp,Gross Domestic Product (GDP),2026-06-25,08:30,2026-06-25T12:30:00Z,Nasdaq 100,0.2702,0.2583,0.0896,0.4659,0,core_pce,https://tradingcipher.com/gdp/2026-06-25/
+gdp,Gross Domestic Product (GDP),2026-06-25,08:30,2026-06-25T12:30:00Z,S&P 500,0.1976,0.1639,0.1462,0.2969,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-06-30,10:00,2026-06-30T14:00:00Z,Nasdaq 100,0.0848,0.1535,-0.1940,0.4986,1,,https://tradingcipher.com/jolts/2026-06-30/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-06-30,10:00,2026-06-30T14:00:00Z,S&P 500,0.0758,0.0841,-0.0836,0.2349,,,
+nfp,Nonfarm Payrolls (NFP),2026-07-02,08:30,2026-07-02T12:30:00Z,Nasdaq 100,0.3058,0.0004,-0.3335,0.5431,0,,https://tradingcipher.com/nfp/2026-07-02/
+nfp,Nonfarm Payrolls (NFP),2026-07-02,08:30,2026-07-02T12:30:00Z,S&P 500,0.1948,0.0711,-0.0120,0.3213,,,
+cpi,Consumer Price Index (CPI),2026-07-14,08:30,2026-07-14T12:30:00Z,Nasdaq 100,0.7088,0.2853,0.4186,0.9106,1,,https://tradingcipher.com/cpi/2026-07-14/
+cpi,Consumer Price Index (CPI),2026-07-14,08:30,2026-07-14T12:30:00Z,S&P 500,0.4454,0.2260,0.2324,0.7649,,,
+ppi,Producer Price Index (PPI),2026-07-15,08:30,2026-07-15T12:30:00Z,Nasdaq 100,0.2164,0.3460,0.2648,0.4259,0,,https://tradingcipher.com/ppi/2026-07-15/
+ppi,Producer Price Index (PPI),2026-07-15,08:30,2026-07-15T12:30:00Z,S&P 500,0.1342,0.2188,0.2286,0.2711,,,
+retail_sales,Retail Sales,2026-07-16,08:30,2026-07-16T12:30:00Z,Nasdaq 100,0.0374,-0.0480,0.1966,0.2068,0,,https://tradingcipher.com/retail-sales/2026-07-16/
+retail_sales,Retail Sales,2026-07-16,08:30,2026-07-16T12:30:00Z,S&P 500,0.0182,-0.0049,0.1259,0.1209,,,
+fomc,Fed Rate Decision (FOMC),2026-07-29,14:00,2026-07-29T18:00:00Z,Nasdaq 100,0.2985,0.1997,1.2220,0.7156,0,,https://tradingcipher.com/fomc/2026-07-29/
+fomc,Fed Rate Decision (FOMC),2026-07-29,14:00,2026-07-29T18:00:00Z,S&P 500,0.2544,0.1373,0.7724,0.5042,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-07-30,08:30,2026-07-30T12:30:00Z,Nasdaq 100,0.0119,0.2426,0.5003,0.3749,1,gdp,https://tradingcipher.com/core-pce/2026-07-30/
+core_pce,Core PCE (Personal Income and Outlays),2026-07-30,08:30,2026-07-30T12:30:00Z,S&P 500,-0.0391,-0.0137,0.2000,0.1742,,gdp,
+gdp,Gross Domestic Product (GDP),2026-07-30,08:30,2026-07-30T12:30:00Z,Nasdaq 100,0.0119,0.2426,0.5003,0.3749,1,core_pce,https://tradingcipher.com/gdp/2026-07-30/
+gdp,Gross Domestic Product (GDP),2026-07-30,08:30,2026-07-30T12:30:00Z,S&P 500,-0.0391,-0.0137,0.2000,0.1742,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-08-04,10:00,2026-08-04T14:00:00Z,Nasdaq 100,0.0737,0.3244,0.2889,0.4406,1,,https://tradingcipher.com/jolts/2026-08-04/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-08-04,10:00,2026-08-04T14:00:00Z,S&P 500,0.0670,0.1447,0.3809,0.3178,,,
+nfp,Nonfarm Payrolls (NFP),2026-08-07,08:30,2026-08-07T12:30:00Z,Nasdaq 100,0.2953,0.5971,0.1575,0.7935,1,,https://tradingcipher.com/nfp/2026-08-07/
+nfp,Nonfarm Payrolls (NFP),2026-08-07,08:30,2026-08-07T12:30:00Z,S&P 500,0.1196,0.2312,-0.0048,0.3542,,,
+cpi,Consumer Price Index (CPI),2026-08-12,08:30,2026-08-12T12:30:00Z,Nasdaq 100,-0.0215,0.0561,0.2950,0.4440,1,,https://tradingcipher.com/cpi/2026-08-12/
+cpi,Consumer Price Index (CPI),2026-08-12,08:30,2026-08-12T12:30:00Z,S&P 500,-0.0222,0.0550,0.1423,0.3382,,,
+ppi,Producer Price Index (PPI),2026-08-13,08:30,2026-08-13T12:30:00Z,Nasdaq 100,-0.0315,0.0839,0.1815,0.2297,0,,https://tradingcipher.com/ppi/2026-08-13/
+ppi,Producer Price Index (PPI),2026-08-13,08:30,2026-08-13T12:30:00Z,S&P 500,-0.0144,0.0662,0.1277,0.1493,,,
+retail_sales,Retail Sales,2026-08-14,08:30,2026-08-14T12:30:00Z,Nasdaq 100,0.0703,0.0580,-0.0315,0.1188,0,,https://tradingcipher.com/retail-sales/2026-08-14/
+retail_sales,Retail Sales,2026-08-14,08:30,2026-08-14T12:30:00Z,S&P 500,0.0304,0.0274,-0.0078,0.0608,,,
+core_pce,Core PCE (Personal Income and Outlays),2026-08-26,08:30,2026-08-26T12:30:00Z,S&P 500,-0.1611,-0.2184,,0.2619,,gdp,
+gdp,Gross Domestic Product (GDP),2026-08-26,08:30,2026-08-26T12:30:00Z,S&P 500,-0.1611,-0.2184,,0.2619,,core_pce,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-09-01,10:00,2026-09-01T14:00:00Z,Nasdaq 100,-0.0007,0.2090,0.4227,0.3116,0,,https://tradingcipher.com/jolts/2026-09-01/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-09-01,10:00,2026-09-01T14:00:00Z,S&P 500,0.0202,0.2355,0.2043,0.3075,,,
+nfp,Nonfarm Payrolls (NFP),2026-09-04,08:30,2026-09-04T12:30:00Z,Nasdaq 100,-0.4365,-0.4496,-0.3081,0.6427,1,,https://tradingcipher.com/nfp/2026-09-04/
+nfp,Nonfarm Payrolls (NFP),2026-09-04,08:30,2026-09-04T12:30:00Z,S&P 500,-0.2768,-0.2707,-0.2224,0.3885,,,
+ppi,Producer Price Index (PPI),2026-09-10,08:30,2026-09-10T12:30:00Z,Nasdaq 100,-0.4053,-0.5849,-0.4744,0.7027,,,https://tradingcipher.com/ppi/2026-09-10/
+ppi,Producer Price Index (PPI),2026-09-10,08:30,2026-09-10T12:30:00Z,S&P 500,-0.2724,-0.3281,-0.3640,0.4166,,,
+cpi,Consumer Price Index (CPI),2026-09-11,08:30,2026-09-11T12:30:00Z,Nasdaq 100,-0.1674,0.2774,0.1027,0.8034,1,,https://tradingcipher.com/cpi/2026-09-11/
+cpi,Consumer Price Index (CPI),2026-09-11,08:30,2026-09-11T12:30:00Z,S&P 500,-0.1405,0.2943,0.1505,0.6731,,,
+fomc,Fed Rate Decision (FOMC),2026-09-16,14:00,2026-09-16T18:00:00Z,Nasdaq 100,0.1228,-0.0553,-0.8287,0.4495,0,,https://tradingcipher.com/fomc/2026-09-16/
+fomc,Fed Rate Decision (FOMC),2026-09-16,14:00,2026-09-16T18:00:00Z,S&P 500,0.0008,-0.0653,-0.8335,0.3201,,,
+retail_sales,Retail Sales,2026-09-16,08:30,2026-09-16T12:30:00Z,Nasdaq 100,-0.0730,-0.1048,-0.1536,0.2363,1,,https://tradingcipher.com/retail-sales/2026-09-16/
+retail_sales,Retail Sales,2026-09-16,08:30,2026-09-16T12:30:00Z,S&P 500,-0.0332,-0.0493,-0.0918,0.1318,,,
+jolts,Job Openings and Labor Turnover (JOLTS),2026-09-29,10:00,2026-09-29T14:00:00Z,Nasdaq 100,0.0686,0.2038,0.1815,0.3571,1,,https://tradingcipher.com/jolts/2026-09-29/
+jolts,Job Openings and Labor Turnover (JOLTS),2026-09-29,10:00,2026-09-29T14:00:00Z,S&P 500,0.0391,0.0938,0.0410,0.1621,,,
+nfp,Nonfarm Payrolls (NFP),2026-10-02,08:30,2026-10-02T12:30:00Z,Nasdaq 100,0.4009,0.5668,0.5002,0.6721,1,,https://tradingcipher.com/nfp/2026-10-02/
+nfp,Nonfarm Payrolls (NFP),2026-10-02,08:30,2026-10-02T12:30:00Z,S&P 500,0.3422,0.4166,0.3128,0.4848,,,
+cpi,Consumer Price Index (CPI),2026-10-14,08:30,2026-10-14T12:30:00Z,Nasdaq 100,-0.7371,-0.9312,-0.9524,0.9863,1,,https://tradingcipher.com/cpi/2026-10-14/
+ppi,Producer Price Index (PPI),2026-10-15,08:30,2026-10-15T12:30:00Z,Nasdaq 100,-0.1201,-0.1794,-0.3190,0.4556,0,retail_sales,https://tradingcipher.com/ppi/2026-10-15/
+ppi,Producer Price Index (PPI),2026-10-15,08:30,2026-10-15T12:30:00Z,S&P 500,-0.0910,-0.0811,-0.2142,0.3132,,retail_sales,
+retail_sales,Retail Sales,2026-10-15,08:30,2026-10-15T12:30:00Z,Nasdaq 100,-0.1201,-0.1794,-0.3190,0.4556,0,ppi,https://tradingcipher.com/retail-sales/2026-10-15/
+retail_sales,Retail Sales,2026-10-15,08:30,2026-10-15T12:30:00Z,S&P 500,-0.0910,-0.0811,-0.2142,0.3132,,ppi,
