@@ -23,7 +23,7 @@ ppi,Producer Price Index (PPI),2023-09-14,08:30,2023-09-14T12:30:00Z,Nasdaq 100,
 ppi,Producer Price Index (PPI),2023-09-14,08:30,2023-09-14T12:30:00Z,S&P 500,-0.1034,0.0455,0.1177,0.2969,,retail_sales,
 retail_sales,Retail Sales,2023-09-14,08:30,2023-09-14T12:30:00Z,Nasdaq 100,-0.1760,-0.0488,-0.0204,0.4000,0,ppi,https://tradingcipher.com/retail-sales/2023-09-14/
 retail_sales,Retail Sales,2023-09-14,08:30,2023-09-14T12:30:00Z,S&P 500,-0.1034,0.0455,0.1177,0.2969,,ppi,
-fomc,Fed Rate Decision (FOMC),2023-09-20,14:00,2023-09-20T18:00:00Z,Nasdaq 100,-0.3585,-0.2104,-0.4071,0.5482,1,,https://tradingcipher.com/fomc/2023-09-20/
+fomc,Fed Rate Decision (FOMC),2023-09-20,14:00,2023-09-20T18:00:00Z,Nasdaq 100,-0.3585,-0.2104,-0.4071,0.5482,,,https://tradingcipher.com/fomc/2023-09-20/
 fomc,Fed Rate Decision (FOMC),2023-09-20,14:00,2023-09-20T18:00:00Z,S&P 500,-0.2992,-0.2058,-0.3763,0.3509,,,
 gdp,Gross Domestic Product (GDP),2023-09-28,08:30,2023-09-28T12:30:00Z,Nasdaq 100,0.2808,-0.2744,-0.2669,0.6797,1,,https://tradingcipher.com/gdp/2023-09-28/
 gdp,Gross Domestic Product (GDP),2023-09-28,08:30,2023-09-28T12:30:00Z,S&P 500,0.2049,-0.2624,-0.2563,0.5654,,,

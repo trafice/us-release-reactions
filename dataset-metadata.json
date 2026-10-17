@@ -1,0 +1,23 @@
+{
+  "title": "US Economic Releases and the Nasdaq 100 Reaction",
+  "id": "OWNER/us-release-reactions",
+  "subtitle": "CPI, NFP, FOMC, PPI, JOLTS, GDP, PCE, retail sales: the 5/30/60-min move",
+  "description": "# US economic releases and the market reaction\n\nHow the Nasdaq 100 and the S&P 500 moved after every major scheduled US economic release,\n2023-08-01 to 2026-10-15: 284 releases, 561 rows (one per release and index).\n\nSource: [tradingcipher.com](https://tradingcipher.com/), where every row has its own page with\nthe minute-by-minute chart (the `page` column). Updated 2026-10-17.\n\n## Releases\nCPI, PPI, Nonfarm Payrolls, JOLTS, the FOMC rate decision, GDP, core PCE (Personal Income and\nOutlays) and retail sales. Release dates and times come from the agencies' own calendars\n(BLS, BEA, Census Bureau, Federal Reserve).\n\n## Columns\n| column | meaning |\n|---|---|\n| release | short key (cpi, ppi, nfp, jolts, fomc, gdp, core_pce, retail_sales) |\n| release_name | full name |\n| release_date | date of the release (US Eastern) |\n| release_time_et / release_utc | scheduled release time |\n| index | Nasdaq 100 or S&P 500 |\n| move_5m_pct / move_30m_pct / move_60m_pct | change from the release minute's price to 5, 30 and 60 minutes later, in % |\n| range_30m_pct | high minus low over the first 30 minutes, in % of the release price |\n| first_5m_held_to_close | Nasdaq 100 only: 1 if the index closed the day (16:00 ET) on the same side of the release price as it was 5 minutes after the release, 0 if not |\n| same_minute_as | other measured releases published in the same minute (their effects cannot be separated) |\n| page | the release's page on tradingcipher.com |\n\n## Method\nOne-minute index data, measured from the price at the release minute. Moves are percentages of\nthat price; raw index levels are not included. The full method is at\nhttps://tradingcipher.com/methodology/.\n\nThese are counts of what happened, not forecasts, and nothing here is trading advice.\n\n## Licence\nCC BY 4.0: use it for anything, credit \"tradingcipher.com\" with a link.\n",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0"
+    }
+  ],
+  "keywords": [
+    "finance",
+    "economics",
+    "time series",
+    "stock market"
+  ],
+  "resources": [
+    {
+      "path": "us_release_reactions.csv",
+      "description": "One row per release and index"
+    }
+  ]
+}
